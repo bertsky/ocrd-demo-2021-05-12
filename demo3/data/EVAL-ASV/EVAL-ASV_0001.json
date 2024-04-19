@@ -1,293 +1,476 @@
 {
-  "OCR-D-GT-SEG-LINE,TESS-GT4HIST": {
+  "TESS-GT4HIST,OCR-D-GT-SEG-LINE": {
     "lines": [
       {
         "tl_1": {
-          "length": 10,
-          "distance": 0.0
+          "char-length": 10,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "Unterricht",
+          "ocr": "Unterricht"
         }
       },
       {
         "tl_2": {
-          "length": 3,
-          "distance": 0.0
+          "char-length": 3,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "vom",
+          "ocr": "vom"
         }
       },
       {
         "tl_3": {
-          "length": 5,
-          "distance": 0.0
+          "char-length": 5,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "Blitz",
+          "ocr": "Blitz"
         }
       },
       {
         "tl_4": {
-          "length": 7,
-          "distance": 0.0
+          "char-length": 7,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "und den",
+          "ocr": "und den"
         }
       },
       {
         "tl_5": {
-          "length": 18,
-          "distance": 0.2222222222222222
+          "char-length": 18,
+          "char-error-rate": 0.2222222222222222,
+          "word-error-rate": 0.3333333333333333,
+          "gt": "Blitz- oder Wetter",
+          "ocr": "Blitz-ve Wetter"
         }
       },
       {
         "tl_6": {
-          "length": 9,
-          "distance": 0.0
+          "char-length": 9,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "Ableitern",
+          "ocr": "Ableitern"
         }
       },
       {
         "tl_7": {
-          "length": 28,
-          "distance": 0.06896551724137931
+          "char-length": 28,
+          "char-error-rate": 0.06896551724137931,
+          "word-error-rate": 0.25,
+          "gt": "zur Belehrung und Beruhigung",
+          "ocr": "zur Belehrung und Berchbigung"
         }
       },
       {
         "tl_8": {
-          "length": 43,
-          "distance": 0.1956521739130435
+          "char-length": 43,
+          "char-error-rate": 0.1956521739130435,
+          "word-error-rate": 0.5,
+          "gt": "ſonderlich der Ungelehrten und des gemeinen",
+          "ocr": "ſonderlich der Mgelehrten und Kg5 pemeinen"
         }
       },
       {
         "tl_9": {
-          "length": 7,
-          "distance": 0.14285714285714285
+          "char-length": 7,
+          "char-error-rate": 0.14285714285714285,
+          "word-error-rate": 1.0,
+          "gt": "Mannes.",
+          "ocr": "Maͤnnes."
         }
       },
       {
         "tl_10": {
-          "length": 21,
-          "distance": 0.047619047619047616
+          "char-length": 21,
+          "char-error-rate": 0.047619047619047616,
+          "word-error-rate": 0.3333333333333333,
+          "gt": "Mit einer Kupfertafel",
+          "ocr": "Mit ener Kupfertafel"
         }
       },
       {
         "tl_11": {
-          "length": 3,
-          "distance": 0.25
+          "char-length": 3,
+          "char-error-rate": 0.25,
+          "word-error-rate": 1.0,
+          "gt": "von",
+          "ocr": "vOon"
         }
       },
       {
         "tl_12": {
-          "length": 21,
-          "distance": 0.0
+          "char-length": 21,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "Johann Friederich Luz",
+          "ocr": "Johann Friederich Luz"
         }
       },
       {
         "tl_13": {
-          "length": 28,
-          "distance": 0.0
+          "char-length": 28,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "Ober Caplan zu Gunzenhauſen.",
+          "ocr": "Ober Caplan zu Gunzenhauſen."
         }
       },
       {
         "tl_14": {
-          "length": 22,
-          "distance": 0.0
+          "char-length": 22,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "Frankfurt und Leipzig,",
+          "ocr": "Frankfurt und Leipzig,"
         }
       },
       {
         "tl_15": {
-          "length": 30,
-          "distance": 0.03333333333333333
+          "char-length": 30,
+          "char-error-rate": 0.03333333333333333,
+          "word-error-rate": 0.0,
+          "gt": "bey Weigel und Schneider 1784.",
+          "ocr": "bey Weigel und Schneider 1784"
         }
       }
     ],
-    "length": 15,
-    "distance-mean": 0.06404329581241125,
-    "distance-varia": 0.007812161584631712
+    "num-lines": 15,
+    "num-words": 39,
+    "num-chars": 260,
+    "char-error-rate-mean": 0.07307692307692308,
+    "char-error-rate-varia": 0.0072039902843731695,
+    "word-error-rate-mean": 0.20512820512820512,
+    "word-error-rate-varia": 0.07117028270874425,
+    "char-error-worst-lines": [
+      "tl_8: avg=0.1956521739130435 len=46",
+      "tl_5: avg=0.2222222222222222 len=18",
+      "tl_7: avg=0.06896551724137931 len=29",
+      "tl_15: avg=0.03333333333333333 len=30",
+      "tl_11: avg=0.25 len=4",
+      "tl_10: avg=0.047619047619047616 len=21",
+      "tl_9: avg=0.14285714285714285 len=7",
+      "tl_14: avg=0.0 len=22",
+      "tl_13: avg=0.0 len=28",
+      "tl_12: avg=0.0 len=21"
+    ]
   },
-  "OCR-D-GT-SEG-LINE,TESS-DEU": {
+  "TESS-DEU,OCR-D-GT-SEG-LINE": {
     "lines": [
       {
         "tl_1": {
-          "length": 10,
-          "distance": 0.0
+          "char-length": 10,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "Unterricht",
+          "ocr": "Unterricht"
         }
       },
       {
         "tl_2": {
-          "length": 3,
-          "distance": 0.5
+          "char-length": 3,
+          "char-error-rate": 0.5,
+          "word-error-rate": 1.0,
+          "gt": "vom",
+          "ocr": "vO m"
         }
       },
       {
         "tl_3": {
-          "length": 5,
-          "distance": 1.0
+          "char-length": 5,
+          "char-error-rate": 1.0,
+          "word-error-rate": 1.0,
+          "gt": "Blitz",
+          "ocr": "3 I 18"
         }
       },
       {
         "tl_4": {
-          "length": 7,
-          "distance": 0.0
+          "char-length": 7,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "und den",
+          "ocr": "und den"
         }
       },
       {
         "tl_5": {
-          "length": 18,
-          "distance": 0.7222222222222222
+          "char-length": 18,
+          "char-error-rate": 0.7222222222222222,
+          "word-error-rate": 1.0,
+          "gt": "Blitz- oder Wetter",
+          "ocr": "Mliß: os SC"
         }
       },
       {
         "tl_6": {
-          "length": 9,
-          "distance": 0.1111111111111111
+          "char-length": 9,
+          "char-error-rate": 0.1111111111111111,
+          "word-error-rate": 1.0,
+          "gt": "Ableitern",
+          "ocr": "ubleitern"
         }
       },
       {
         "tl_7": {
-          "length": 28,
-          "distance": 0.27586206896551724
+          "char-length": 28,
+          "char-error-rate": 0.27586206896551724,
+          "word-error-rate": 1.0,
+          "gt": "zur Belehrung und Beruhigung",
+          "ocr": "aur SBelehruhg ua Bergung"
         }
       },
       {
         "tl_8": {
-          "length": 43,
-          "distance": 0.25
+          "char-length": 43,
+          "char-error-rate": 0.25,
+          "word-error-rate": 0.5,
+          "gt": "ſonderlich der Ungelehrten und des gemeinen",
+          "ocr": "fonderlih der Wirgeleheten : und, Rear gemeinen"
         }
       },
       {
         "tl_9": {
-          "length": 7,
-          "distance": 0.25
+          "char-length": 7,
+          "char-error-rate": 0.25,
+          "word-error-rate": 1.0,
+          "gt": "Mannes.",
+          "ocr": "Mäahnes."
         }
       },
       {
         "tl_10": {
-          "length": 21,
-          "distance": 0.19047619047619047
+          "char-length": 21,
+          "char-error-rate": 0.19047619047619047,
+          "word-error-rate": 0.6666666666666666,
+          "gt": "Mit einer Kupfertafel",
+          "ocr": "Mit eMer Nupfertatel"
         }
       },
       {
         "tl_11": {
-          "length": 3,
-          "distance": 0.6666666666666666
+          "char-length": 3,
+          "char-error-rate": 0.6666666666666666,
+          "word-error-rate": 1.0,
+          "gt": "von",
+          "ocr": "v oo R"
         }
       },
       {
         "tl_12": {
-          "length": 21,
-          "distance": 0.17391304347826086
+          "char-length": 21,
+          "char-error-rate": 0.17391304347826086,
+          "word-error-rate": 0.6666666666666666,
+          "gt": "Johann Friederich Luz",
+          "ocr": "KSohann FriederihH Luz"
         }
       },
       {
         "tl_13": {
-          "length": 28,
-          "distance": 0.13793103448275862
+          "char-length": 28,
+          "char-error-rate": 0.13793103448275862,
+          "word-error-rate": 0.75,
+          "gt": "Ober Caplan zu Gunzenhauſen.",
+          "ocr": "Qber Caplanı zu Gunzenbaufen."
         }
       },
       {
         "tl_14": {
-          "length": 22,
-          "distance": 0.13043478260869565
+          "char-length": 22,
+          "char-error-rate": 0.13043478260869565,
+          "word-error-rate": 0.3333333333333333,
+          "gt": "Frankfurt und Leipzig,",
+          "ocr": "Zranffurtf und Leipzig,"
         }
       },
       {
         "tl_15": {
-          "length": 30,
-          "distance": 0.03333333333333333
+          "char-length": 30,
+          "char-error-rate": 0.03333333333333333,
+          "word-error-rate": 0.0,
+          "gt": "bey Weigel und Schneider 1784.",
+          "ocr": "bey Weigel und Schneider 1784"
         }
       }
     ],
-    "length": 15,
-    "distance-mean": 0.2961300302229838,
-    "distance-varia": 0.0811850840368879
+    "num-lines": 15,
+    "num-words": 44,
+    "num-chars": 271,
+    "char-error-rate-mean": 0.23616236162361623,
+    "char-error-rate-varia": 0.044992955089991245,
+    "word-error-rate-mean": 0.6363636363636364,
+    "word-error-rate-varia": 0.13481404958677687,
+    "char-error-worst-lines": [
+      "tl_5: avg=0.7222222222222222 len=18",
+      "tl_8: avg=0.25 len=48",
+      "tl_7: avg=0.27586206896551724 len=29",
+      "tl_3: avg=1.0 len=6",
+      "tl_13: avg=0.13793103448275862 len=29",
+      "tl_12: avg=0.17391304347826086 len=23",
+      "tl_11: avg=0.6666666666666666 len=6",
+      "tl_10: avg=0.19047619047619047 len=21",
+      "tl_14: avg=0.13043478260869565 len=23",
+      "tl_9: avg=0.25 len=8"
+    ]
   },
-  "OCR-D-GT-SEG-LINE,CALA-GT4HIST": {
+  "CALA-GT4HIST,OCR-D-GT-SEG-LINE": {
     "lines": [
       {
         "tl_1": {
-          "length": 10,
-          "distance": 0.0
+          "char-length": 10,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "Unterricht",
+          "ocr": "Unterricht"
         }
       },
       {
         "tl_2": {
-          "length": 3,
-          "distance": 0.0
+          "char-length": 3,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "vom",
+          "ocr": "vom"
         }
       },
       {
         "tl_3": {
-          "length": 5,
-          "distance": 0.0
+          "char-length": 5,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "Blitz",
+          "ocr": "Blitz"
         }
       },
       {
         "tl_4": {
-          "length": 7,
-          "distance": 0.0
+          "char-length": 7,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "und den",
+          "ocr": "und den"
         }
       },
       {
         "tl_5": {
-          "length": 18,
-          "distance": 0.2222222222222222
+          "char-length": 18,
+          "char-error-rate": 0.2222222222222222,
+          "word-error-rate": 0.3333333333333333,
+          "gt": "Blitz- oder Wetter",
+          "ocr": "Blitz-  Wetter"
         }
       },
       {
         "tl_6": {
-          "length": 9,
-          "distance": 0.0
+          "char-length": 9,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "Ableitern",
+          "ocr": "Ableitern"
         }
       },
       {
         "tl_7": {
-          "length": 28,
-          "distance": 0.07142857142857142
+          "char-length": 28,
+          "char-error-rate": 0.07142857142857142,
+          "word-error-rate": 0.5,
+          "gt": "zur Belehrung und Beruhigung",
+          "ocr": "zur Belehrng und Berhigung"
         }
       },
       {
         "tl_8": {
-          "length": 43,
-          "distance": 0.09302325581395349
+          "char-length": 43,
+          "char-error-rate": 0.09302325581395349,
+          "word-error-rate": 0.3333333333333333,
+          "gt": "ſonderlich der Ungelehrten und des gemeinen",
+          "ocr": "ſonderlich der gelehtten und ds gemeinen"
         }
       },
       {
         "tl_9": {
-          "length": 7,
-          "distance": 0.14285714285714285
+          "char-length": 7,
+          "char-error-rate": 0.14285714285714285,
+          "word-error-rate": 1.0,
+          "gt": "Mannes.",
+          "ocr": "Maͤnnes."
         }
       },
       {
         "tl_10": {
-          "length": 21,
-          "distance": 0.047619047619047616
+          "char-length": 21,
+          "char-error-rate": 0.047619047619047616,
+          "word-error-rate": 0.3333333333333333,
+          "gt": "Mit einer Kupfertafel",
+          "ocr": "Mit ener Kupfertafel"
         }
       },
       {
         "tl_11": {
-          "length": 3,
-          "distance": 0.3333333333333333
+          "char-length": 3,
+          "char-error-rate": 0.3333333333333333,
+          "word-error-rate": 1.0,
+          "gt": "von",
+          "ocr": "voJ"
         }
       },
       {
         "tl_12": {
-          "length": 21,
-          "distance": 0.0
+          "char-length": 21,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "Johann Friederich Luz",
+          "ocr": "Johann Friederich Luz"
         }
       },
       {
         "tl_13": {
-          "length": 28,
-          "distance": 0.0
+          "char-length": 28,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "Ober Caplan zu Gunzenhauſen.",
+          "ocr": "Ober Caplan zu Gunzenhauſen."
         }
       },
       {
         "tl_14": {
-          "length": 22,
-          "distance": 0.0
+          "char-length": 22,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "Frankfurt und Leipzig,",
+          "ocr": "Frankfurt und Leipzig,"
         }
       },
       {
         "tl_15": {
-          "length": 30,
-          "distance": 0.03225806451612903
+          "char-length": 30,
+          "char-error-rate": 0.03225806451612903,
+          "word-error-rate": 0.3333333333333333,
+          "gt": "bey Weigel und Schneider 1784.",
+          "ocr": "bey Weigel und Schneider 178 4."
         }
       }
     ],
-    "length": 15,
-    "distance-mean": 0.06284944251935999,
-    "distance-varia": 0.009247648494127432
+    "num-lines": 15,
+    "num-words": 40,
+    "num-chars": 256,
+    "char-error-rate-mean": 0.05468750000000001,
+    "char-error-rate-varia": 0.00466516266924804,
+    "word-error-rate-mean": 0.25,
+    "word-error-rate-varia": 0.062499999999999986,
+    "char-error-worst-lines": [
+      "tl_8: avg=0.09302325581395349 len=43",
+      "tl_5: avg=0.2222222222222222 len=18",
+      "tl_7: avg=0.07142857142857142 len=28",
+      "tl_15: avg=0.03225806451612903 len=31",
+      "tl_11: avg=0.3333333333333333 len=3",
+      "tl_10: avg=0.047619047619047616 len=21",
+      "tl_9: avg=0.14285714285714285 len=7",
+      "tl_14: avg=0.0 len=22",
+      "tl_13: avg=0.0 len=28",
+      "tl_12: avg=0.0 len=21"
+    ]
   }
 }

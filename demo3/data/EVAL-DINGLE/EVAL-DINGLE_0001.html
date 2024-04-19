@@ -22,6 +22,22 @@
       border: 2px solid;
       border-radius: 5px;
     }
+
+    .row {
+        margin-bottom: 20px;
+    }
+
+    table {
+        width: 100%;
+    }
+
+    th {
+        cursor: pointer;
+    }
+
+    th:hover {
+        background-color: #eee;
+    }
     </style>
 </head>
 <body>
@@ -51,11 +67,10 @@ CALA-GT4HIST/CALA-GT4HIST_0001.xml
 <h2>Word differences</h2>
 
         <div class="row">
-           <div class="col-md-6 gt"> Unterricht vom Blitz und den Blitz <span class="wdiff6 diff" >oder</span> Wetter Ableitern zur <span class="wdiff10 diff" >Belehrung</span> und <span class="wdiff12 diff" >Beruhigung</span> ſonderlich der <span class="wdiff15 diff" >Ungelehrten</span> und <span class="wdiff17 diff" >des</span> gemeinen <span class="wdiff19 diff" >Mannes</span> Mit <span class="wdiff21 diff" >einer</span> Kupfertafel <span class="wdiff23 diff" >von</span> Johann Friederich Luz Ober Caplan zu Gunzenhauſen Frankfurt und Leipzig bey Weigel und Schneider <span class="wdiff38 diff" >1784</span> <span class="wdiff39 diff ellipsis" >⋯</span></div>
+           <div class="col-md-6 gt"> Unterricht vom Blitz und den Blitz <span class="wdiff6 diff" >oder</span> Wetter Ableitern zur <span class="wdiff10 diff" >Belehrung</span> und <span class="wdiff12 diff" >Beruhigung</span> ſonderlich der <span class="wdiff15 diff" >Ungelehrten</span> und <span class="wdiff17 diff" >des</span> gemeinen <span class="wdiff19 diff" >Mannes</span> Mit <span class="wdiff21 diff" >einer</span> Kupfertafel <span class="wdiff23 diff" >von</span> Johann Friederich Luz Ober Caplan zu Gunzenhauſen Frankfurt und Leipzig bey Weigel und Schneider <span class="wdiff38 diff ellipsis" >⋯</span> <span class="wdiff39 diff" >1784</span></div>
            <div class="col-md-6 ocr"> Unterricht vom Blitz und den Blitz <span class="wdiff6 diff ellipsis" >⋯</span> Wetter Ableitern zur <span class="wdiff10 diff" >Belehrng</span> und <span class="wdiff12 diff" >Berhigung</span> ſonderlich der <span class="wdiff15 diff" >gelehtten</span> und <span class="wdiff17 diff" >ds</span> gemeinen <span class="wdiff19 diff" >Männes</span> Mit <span class="wdiff21 diff" >ener</span> Kupfertafel <span class="wdiff23 diff" >voJ</span> Johann Friederich Luz Ober Caplan zu Gunzenhauſen Frankfurt und Leipzig bey Weigel und Schneider <span class="wdiff38 diff" >178</span> <span class="wdiff39 diff" >4</span></div>
         </div>
         
-
 
 </div>
 
@@ -80,6 +95,30 @@ $(document).ready(function() {
     $('.diff').mouseout(function() {
         find_diff_class($(this).attr('class')).removeClass('diff-highlight');
     });
+
+    /* Sort this column of the table */
+    $('th').click(function () {
+        var table = $(this).closest('table');
+        var rows = table.find('tbody > tr').toArray().sort(compareRows($(this).index()));
+        this.asc = !this.asc;
+        if (!this.asc) {
+            rows = rows.reverse();
+        }
+        for (var i = 0; i < rows.length; i++) {
+            table.children('tbody').append(rows[i]);
+        }
+    });
+
+    function compareRows(index) {
+        return function (row1, row2) {
+            var cell1 = $(row1).children('td').eq(index).text().toLowerCase();
+            var cell2 = $(row2).children('td').eq(index).text().toLowerCase();
+            return cell1.localeCompare(cell2, undefined, {
+                numeric: true,
+                sensitivity: 'base'
+            });
+        }
+    }
 });
 </script>
 

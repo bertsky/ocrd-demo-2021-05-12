@@ -1,671 +1,1043 @@
 {
-  "OCR-D-GT-SEG-LINE,TESS-GT4HIST": {
+  "TESS-GT4HIST,OCR-D-GT-SEG-LINE": {
     "lines": [
       {
         "tl_1": {
-          "length": 2,
-          "distance": 0.0
+          "char-length": 2,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "11",
+          "ocr": "11"
         }
       },
       {
         "tl_2": {
-          "length": 46,
-          "distance": 0.0
+          "char-length": 46,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "in den Ephemeridibus ſocietatis Meteorologicae",
+          "ocr": "in den Ephemeridibus ſocietatis Meteorologicae"
         }
       },
       {
         "tl_3": {
-          "length": 52,
-          "distance": 0.058823529411764705
+          "char-length": 52,
+          "char-error-rate": 0.058823529411764705,
+          "word-error-rate": 0.3333333333333333,
+          "gt": "palatinae 1781. umſtaͤndlich erzaͤhlet werden. Maxi-",
+          "ocr": "palatĩnae 17831. umſtaͤndlich erzaͤhlet werden. Maxi⸗"
         }
       },
       {
         "tl_4": {
-          "length": 51,
-          "distance": 0.0
+          "char-length": 51,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "milian Theodor, der Pfaͤlzer und Baiern Churfuͤrſt,",
+          "ocr": "milian Theodor, der Pfaͤlzer und Baiern Churfuͤrſt,"
         }
       },
       {
         "tl_5": {
-          "length": 53,
-          "distance": 0.038461538461538464
+          "char-length": 53,
+          "char-error-rate": 0.038461538461538464,
+          "word-error-rate": 0.125,
+          "gt": "ein eben so groſer und gruͤndlich gelehrter Naturfor-",
+          "ocr": "ein eben ſo groſer und gruͤndlich gelehrter Naturfor⸗"
         }
       },
       {
         "tl_6": {
-          "length": 56,
-          "distance": 0.0
+          "char-length": 56,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "ſcher, als weiſer und guter Regent beſchloß zuerſt unter",
+          "ocr": "ſcher, als weiſer und guter Regent beſchloß zuerſt unter"
         }
       },
       {
         "tl_7": {
-          "length": 54,
-          "distance": 0.0
+          "char-length": 54,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "den Fuͤrſten Deutſchlands die Wetterableiter in ſeinen",
+          "ocr": "den Fuͤrſten Deutſchlands die Wetterableiter in ſeinen"
         }
       },
       {
         "tl_8": {
-          "length": 50,
-          "distance": 0.02040816326530612
+          "char-length": 50,
+          "char-error-rate": 0.02040816326530612,
+          "word-error-rate": 0.0,
+          "gt": "Landen einzufuͤhren. Auf ſeinem Luſtſchloß Schwet-",
+          "ocr": "Landen einzufuͤhren. Auf ſeinem Luſtſchloß Schwet⸗"
         }
       },
       {
         "tl_9": {
-          "length": 54,
-          "distance": 0.0
+          "char-length": 54,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "zingen ließ er den erſten Wetterableiter anlegen. Kaum",
+          "ocr": "zingen ließ er den erſten Wetterableiter anlegen. Kaum"
         }
       },
       {
         "tl_10": {
-          "length": 54,
-          "distance": 0.018518518518518517
+          "char-length": 54,
+          "char-error-rate": 0.018518518518518517,
+          "word-error-rate": 0.0,
+          "gt": "war es geſchehen, ſo wurde er mit Bitten ſeiner Unter-",
+          "ocr": "war es geſchehen, ſo wurde er mit Bitten ſeiner Unter."
         }
       },
       {
         "tl_11": {
-          "length": 52,
-          "distance": 0.02
+          "char-length": 52,
+          "char-error-rate": 0.02,
+          "word-error-rate": 0.14285714285714285,
+          "gt": "thanen uͤberhaͤuft, es entweder zu unterlaſſen, oder",
+          "ocr": "thanen uͤberhaͤuft, es entweder zu unterlaſſen, odet"
         }
       },
       {
         "tl_12": {
-          "length": 56,
-          "distance": 0.03636363636363636
+          "char-length": 56,
+          "char-error-rate": 0.03636363636363636,
+          "word-error-rate": 0.1111111111111111,
+          "gt": "wenigſtens ſich nicht an einem so gefaͤhrlichen Ort auf-",
+          "ocr": "wenigſtens ſich nicht an einem ſo gefaͤhrlichen Ort auf⸗"
         }
       },
       {
         "tl_13": {
-          "length": 48,
-          "distance": 0.0
+          "char-length": 48,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "zuhalten. Allein er mußte, um die Vorurtheile zu",
+          "ocr": "zuhalten. Allein er mußte, um die Vorurtheile zu"
         }
       },
       {
         "tl_14": {
-          "length": 52,
-          "distance": 0.0
+          "char-length": 52,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "widerlegen, dieſe Bitte ſeiner Unterthanen verſagen.",
+          "ocr": "widerlegen, dieſe Bitte ſeiner Unterthanen verſagen."
         }
       },
       {
         "tl_15": {
-          "length": 45,
-          "distance": 0.0
+          "char-length": 45,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "Er wohnte dem naͤchſten Sommer auf ſeinem mit",
+          "ocr": "Er wohnte dem naͤchſten Sommer auf ſeinem mit"
         }
       },
       {
         "tl_16": {
-          "length": 53,
-          "distance": 0.019230769230769232
+          "char-length": 53,
+          "char-error-rate": 0.019230769230769232,
+          "word-error-rate": 0.2,
+          "gt": "Wetterableitern verſehenen Luſtschloß ruhig, waͤhrend",
+          "ocr": "Wetterableitern verſehenen Luſtſchloß ruhig, waͤhrend"
         }
       },
       {
         "tl_17": {
-          "length": 53,
-          "distance": 0.019230769230769232
+          "char-length": 53,
+          "char-error-rate": 0.019230769230769232,
+          "word-error-rate": 0.0,
+          "gt": "dem ſein Volk bey jedem Wetter aͤngſtlich um ſein Le-",
+          "ocr": "dem ſein Volk bey jedem Wetter aͤngſtlich um ſein Le⸗"
         }
       },
       {
         "tl_18": {
-          "length": 50,
-          "distance": 0.0196078431372549
+          "char-length": 50,
+          "char-error-rate": 0.0196078431372549,
+          "word-error-rate": 0.0,
+          "gt": "ben beſorgt war. Das folgende Jahr ließ er auch an",
+          "ocr": "ben beſorgt war.“ Das folgende Jahr ließ er auch an"
         }
       },
       {
         "tl_19": {
-          "length": 50,
-          "distance": 0.02
+          "char-length": 50,
+          "char-error-rate": 0.02,
+          "word-error-rate": 0.0,
+          "gt": "ſeinem Schloß zu Mannheim einen Wetterableiter an-",
+          "ocr": "ſeinem Schloß zu Mannheim einen Wetterableiter an⸗"
         }
       },
       {
         "tl_20": {
-          "length": 50,
-          "distance": 0.02040816326530612
+          "char-length": 50,
+          "char-error-rate": 0.02040816326530612,
+          "word-error-rate": 0.0,
+          "gt": "richten ; zwar nicht ganz ohne Beaͤngſtigung, aber",
+          "ocr": "richten; zwar nicht ganz ohne Beaͤngſtigung, aber"
         }
       },
       {
         "tl_21": {
-          "length": 51,
-          "distance": 0.0
+          "char-length": 51,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "ſchon mit mehrerer Beruhigung der Einwohner; da ſie",
+          "ocr": "ſchon mit mehrerer Beruhigung der Einwohner; da ſie"
         }
       },
       {
         "tl_22": {
-          "length": 51,
-          "distance": 0.02
+          "char-length": 51,
+          "char-error-rate": 0.02,
+          "word-error-rate": 0.0,
+          "gt": "wuſten, daß ihr Churfuͤrſt bereits einen Sommer un-",
+          "ocr": "wuſten, daß ihr Churfuͤrſt bereits einen Sommer un⸗"
         }
       },
       {
         "tl_23": {
-          "length": 52,
-          "distance": 0.0
+          "char-length": 52,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "ter einem Wetterableiter ſicher zugebracht hatte. Im",
+          "ocr": "ter einem Wetterableiter ſicher zugebracht hatte. Im"
         }
       },
       {
         "tl_24": {
-          "length": 51,
-          "distance": 0.0
+          "char-length": 51,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "dritten Jahr fiengen ſchon viele Privatperſonen an,",
+          "ocr": "dritten Jahr fiengen ſchon viele Privatperſonen an,"
         }
       },
       {
         "tl_25": {
-          "length": 53,
-          "distance": 0.018867924528301886
+          "char-length": 53,
+          "char-error-rate": 0.018867924528301886,
+          "word-error-rate": 0.0,
+          "gt": "die Wetterſtangen aufrichten zu laſſen, und bald wur-",
+          "ocr": "die Wetterſtangen aufrichten zu laſſen, und bald wur⸗"
         }
       },
       {
         "tl_26": {
-          "length": 18,
-          "distance": 0.0
+          "char-length": 18,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "den ſie allgemein.",
+          "ocr": "den ſie allgemein."
         }
       },
       {
         "tl_27": {
-          "length": 48,
-          "distance": 0.041666666666666664
+          "char-length": 48,
+          "char-error-rate": 0.041666666666666664,
+          "word-error-rate": 0.25,
+          "gt": "Nun fiel dieſem groſem Reichsfuͤrſten auch Chur-",
+          "ocr": "Nun fiel dieſem groſem Reichs fuͤrſten auch Chur⸗"
         }
       },
       {
         "tl_28": {
-          "length": 49,
-          "distance": 0.0
+          "char-length": 49,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "Baiern durch Erbſchaft zu. Daher dachte er gleich",
+          "ocr": "Baiern durch Erbſchaft zu. Daher dachte er gleich"
         }
       },
       {
         "tl_29": {
-          "length": 49,
-          "distance": 0.020833333333333332
+          "char-length": 49,
+          "char-error-rate": 0.020833333333333332,
+          "word-error-rate": 0.0,
+          "gt": "darauf, auch ſein Muͤncher Schloß und das Sommer-",
+          "ocr": "darauf, auch ſein Muͤncher Schloß und das Sommer—"
         }
       },
       {
         "tl_30": {
-          "length": 51,
-          "distance": 0.0
+          "char-length": 51,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "Schloß zu Nymphenburg, durch Wetterableiter vor dem",
+          "ocr": "Schloß zu Nymphenburg, durch Wetterableiter vor dem"
         }
       },
       {
         "tl_31": {
-          "length": 52,
-          "distance": 0.0
+          "char-length": 52,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "Blitz zu verwahren. Aber hier geſchahe, was man kaum",
+          "ocr": "Blitz zu verwahren. Aber hier geſchahe, was man kaum"
         }
       },
       {
         "tl_32": {
-          "length": 57,
-          "distance": 0.017857142857142856
+          "char-length": 57,
+          "char-error-rate": 0.017857142857142856,
+          "word-error-rate": 0.0,
+          "gt": "denken ſollte. Der Poͤbel wurde von der Geiſtlichkeit an-",
+          "ocr": "denken ſollte. Der Poͤbel wurde von der Geiſtlichkeit an⸗"
         }
       },
       {
         "tl_33": {
-          "length": 53,
-          "distance": 0.0
+          "char-length": 53,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "geſtiftet, ſich dieſem Unternehmen zu widerſetzen. Es",
+          "ocr": "geſtiftet, ſich dieſem Unternehmen zu widerſetzen. Es"
         }
       },
       {
         "tl_34": {
-          "length": 52,
-          "distance": 0.019230769230769232
+          "char-length": 52,
+          "char-error-rate": 0.019230769230769232,
+          "word-error-rate": 0.0,
+          "gt": "entſtund alſo ein Tumult, und die Wetterableiter mu-",
+          "ocr": "entſtund alſo ein Tumult, und die Wetterableiter mu⸗"
         }
       },
       {
         "tl_35": {
-          "length": 53,
-          "distance": 0.0
+          "char-length": 53,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "ſten unter dem Schutz der Waffen aufgerichtet werden.",
+          "ocr": "ſten unter dem Schutz der Waffen aufgerichtet werden."
         }
       },
       {
         "tl_36": {
-          "length": 4,
-          "distance": 0.0
+          "char-length": 4,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "Kaum",
+          "ocr": "Kaum"
         }
       }
     ],
-    "length": 36,
-    "distance-mean": 0.011930799097252157,
-    "distance-varia": 0.00021811945986631022
+    "num-lines": 36,
+    "num-words": 258,
+    "num-chars": 1710,
+    "char-error-rate-mean": 0.012865497076023392,
+    "char-error-rate-varia": 0.00022257703634148172,
+    "word-error-rate-mean": 0.031007751937984492,
+    "word-error-rate-varia": 0.005804546143918777,
+    "char-error-worst-lines": [
+      "tl_3: avg=0.058823529411764705 len=51",
+      "tl_27: avg=0.041666666666666664 len=48",
+      "tl_12: avg=0.03636363636363636 len=55",
+      "tl_5: avg=0.038461538461538464 len=52",
+      "tl_34: avg=0.019230769230769232 len=52",
+      "tl_32: avg=0.017857142857142856 len=56",
+      "tl_29: avg=0.020833333333333332 len=48",
+      "tl_25: avg=0.018867924528301886 len=53",
+      "tl_22: avg=0.02 len=50",
+      "tl_19: avg=0.02 len=50"
+    ]
   },
-  "OCR-D-GT-SEG-LINE,TESS-DEU": {
+  "TESS-DEU,OCR-D-GT-SEG-LINE": {
     "lines": [
       {
         "tl_1": {
-          "length": 2,
-          "distance": 0.5
+          "char-length": 2,
+          "char-error-rate": 0.5,
+          "word-error-rate": 1.0,
+          "gt": "11",
+          "ocr": "1%"
         }
       },
       {
         "tl_2": {
-          "length": 46,
-          "distance": 0.06382978723404255
+          "char-length": 46,
+          "char-error-rate": 0.06382978723404255,
+          "word-error-rate": 0.4,
+          "gt": "in den Ephemeridibus ſocietatis Meteorologicae",
+          "ocr": "{in den Ephemeridibus focietatis Metearologicae"
         }
       },
       {
         "tl_3": {
-          "length": 52,
-          "distance": 0.16
+          "char-length": 52,
+          "char-error-rate": 0.16,
+          "word-error-rate": 0.6666666666666666,
+          "gt": "palatinae 1781. umſtaͤndlich erzaͤhlet werden. Maxi-",
+          "ocr": "palatinae 1781, umftändlich erzählet werben, Mapis"
         }
       },
       {
         "tl_4": {
-          "length": 51,
-          "distance": 0.19607843137254902
+          "char-length": 51,
+          "char-error-rate": 0.19607843137254902,
+          "word-error-rate": 0.42857142857142855,
+          "gt": "milian Theodor, der Pfaͤlzer und Baiern Churfuͤrſt,",
+          "ocr": "nrifien Theodor, der Pfäker und Baiern Churfurft,"
         }
       },
       {
         "tl_5": {
-          "length": 53,
-          "distance": 0.09615384615384616
+          "char-length": 53,
+          "char-error-rate": 0.09615384615384616,
+          "word-error-rate": 0.375,
+          "gt": "ein eben so groſer und gruͤndlich gelehrter Naturfor-",
+          "ocr": "ein eben (0 arofer und gründlich gelehrter Naturfor-"
         }
       },
       {
         "tl_6": {
-          "length": 56,
-          "distance": 0.07142857142857142
+          "char-length": 56,
+          "char-error-rate": 0.07142857142857142,
+          "word-error-rate": 0.4444444444444444,
+          "gt": "ſcher, als weiſer und guter Regent beſchloß zuerſt unter",
+          "ocr": "(cher, als weifer und guter Regent befchloß zuerft unter"
         }
       },
       {
         "tl_7": {
-          "length": 54,
-          "distance": 0.1111111111111111
+          "char-length": 54,
+          "char-error-rate": 0.1111111111111111,
+          "word-error-rate": 0.5714285714285714,
+          "gt": "den Fuͤrſten Deutſchlands die Wetterableiter in ſeinen",
+          "ocr": "den Fürften Deutichlands die MWerterableiter in (einen"
         }
       },
       {
         "tl_8": {
-          "length": 50,
-          "distance": 0.2641509433962264
+          "char-length": 50,
+          "char-error-rate": 0.2641509433962264,
+          "word-error-rate": 0.8571428571428571,
+          "gt": "Landen einzufuͤhren. Auf ſeinem Luſtſchloß Schwet-",
+          "ocr": "Sanden einzuführen, Auf feinem tuft(dhlToß Schwete"
         }
       },
       {
         "tl_9": {
-          "length": 54,
-          "distance": 0.037037037037037035
+          "char-length": 54,
+          "char-error-rate": 0.037037037037037035,
+          "word-error-rate": 0.125,
+          "gt": "zingen ließ er den erſten Wetterableiter anlegen. Kaum",
+          "ocr": "zingen ließ er den erften Wetterableiter anlegen, Kaum"
         }
       },
       {
         "tl_10": {
-          "length": 54,
-          "distance": 0.09259259259259259
+          "char-length": 54,
+          "char-error-rate": 0.09259259259259259,
+          "word-error-rate": 0.4,
+          "gt": "war es geſchehen, ſo wurde er mit Bitten ſeiner Unter-",
+          "ocr": "war es gefchehen, fo wurde er mit Ditten (einer Unter."
         }
       },
       {
         "tl_11": {
-          "length": 52,
-          "distance": 0.15384615384615385
+          "char-length": 52,
+          "char-error-rate": 0.15384615384615385,
+          "word-error-rate": 0.5714285714285714,
+          "gt": "thanen uͤberhaͤuft, es entweder zu unterlaſſen, oder",
+          "ocr": "chanen Hberhäuft, -e& entweder zu unterlaffen , oder"
         }
       },
       {
         "tl_12": {
-          "length": 56,
-          "distance": 0.14285714285714285
+          "char-length": 56,
+          "char-error-rate": 0.14285714285714285,
+          "word-error-rate": 0.5555555555555556,
+          "gt": "wenigſtens ſich nicht an einem so gefaͤhrlichen Ort auf-",
+          "ocr": "weniaftens fich nicht an einem (0 gefährlichen. Ort aufe"
         }
       },
       {
         "tl_13": {
-          "length": 48,
-          "distance": 0.12244897959183673
+          "char-length": 48,
+          "char-error-rate": 0.12244897959183673,
+          "word-error-rate": 0.375,
+          "gt": "zuhalten. Allein er mußte, um die Vorurtheile zu",
+          "ocr": "zuhalten, Nllein er mußte , um bie Borurcheile zu"
         }
       },
       {
         "tl_14": {
-          "length": 52,
-          "distance": 0.12962962962962962
+          "char-length": 52,
+          "char-error-rate": 0.12962962962962962,
+          "word-error-rate": 0.6666666666666666,
+          "gt": "widerlegen, dieſe Bitte ſeiner Unterthanen verſagen.",
+          "ocr": "yofderlegen, bdiefe Bitte feiner Unterthanen verfagen."
         }
       },
       {
         "tl_15": {
-          "length": 45,
-          "distance": 0.09090909090909091
+          "char-length": 45,
+          "char-error-rate": 0.09090909090909091,
+          "word-error-rate": 0.375,
+          "gt": "Er wohnte dem naͤchſten Sommer auf ſeinem mit",
+          "ocr": "Sr wohnte dem nächften Sommer auf feinem mit"
         }
       },
       {
         "tl_16": {
-          "length": 53,
-          "distance": 0.2542372881355932
+          "char-length": 53,
+          "char-error-rate": 0.2542372881355932,
+          "word-error-rate": 0.8,
+          "gt": "Wetterableitern verſehenen Luſtschloß ruhig, waͤhrend",
+          "ocr": "MWerterableitern verfehenen. tuftfchloß, ruhig, wakrend"
         }
       },
       {
         "tl_17": {
-          "length": 53,
-          "distance": 0.17307692307692307
+          "char-length": 53,
+          "char-error-rate": 0.17307692307692307,
+          "word-error-rate": 0.6,
+          "gt": "dem ſein Volk bey jedem Wetter aͤngſtlich um ſein Le-",
+          "ocr": "dem fein Bolk ben jedem Wetter ängfilich um fein ze"
         }
       },
       {
         "tl_18": {
-          "length": 50,
-          "distance": 0.11764705882352941
+          "char-length": 50,
+          "char-error-rate": 0.11764705882352941,
+          "word-error-rate": 0.3,
+          "gt": "ben beſorgt war. Das folgende Jahr ließ er auch an",
+          "ocr": "hen beforat war,‘ Das folgende Kahr ließ er auch an"
         }
       },
       {
         "tl_19": {
-          "length": 50,
-          "distance": 0.06
+          "char-length": 50,
+          "char-error-rate": 0.06,
+          "word-error-rate": 0.2857142857142857,
+          "gt": "ſeinem Schloß zu Mannheim einen Wetterableiter an-",
+          "ocr": "feigem Schloß zu Mannheim einen Wetterableiter ans"
         }
       },
       {
         "tl_20": {
-          "length": 50,
-          "distance": 0.06
+          "char-length": 50,
+          "char-error-rate": 0.06,
+          "word-error-rate": 0.14285714285714285,
+          "gt": "richten ; zwar nicht ganz ohne Beaͤngſtigung, aber",
+          "ocr": "richten ; zwar nicht ganz ohne Beängftigung , aber"
         }
       },
       {
         "tl_21": {
-          "length": 51,
-          "distance": 0.0392156862745098
+          "char-length": 51,
+          "char-error-rate": 0.0392156862745098,
+          "word-error-rate": 0.25,
+          "gt": "ſchon mit mehrerer Beruhigung der Einwohner; da ſie",
+          "ocr": "{chon mit mehrerer Beruhigung der Einwohner; da fie"
         }
       },
       {
         "tl_22": {
-          "length": 51,
-          "distance": 0.1
+          "char-length": 51,
+          "char-error-rate": 0.1,
+          "word-error-rate": 0.375,
+          "gt": "wuſten, daß ihr Churfuͤrſt bereits einen Sommer un-",
+          "ocr": "wuften, daß ihr Churfürft bereits einen Sommer um"
         }
       },
       {
         "tl_23": {
-          "length": 52,
-          "distance": 0.038461538461538464
+          "char-length": 52,
+          "char-error-rate": 0.038461538461538464,
+          "word-error-rate": 0.14285714285714285,
+          "gt": "ter einem Wetterableiter ſicher zugebracht hatte. Im",
+          "ocr": "ter einem Wetterableiter ficher zugebracht hatte, Im"
         }
       },
       {
         "tl_24": {
-          "length": 51,
-          "distance": 0.12962962962962962
+          "char-length": 51,
+          "char-error-rate": 0.12962962962962962,
+          "word-error-rate": 0.5714285714285714,
+          "gt": "dritten Jahr fiengen ſchon viele Privatperſonen an,",
+          "ocr": "dritten SKahr, fiengen fchon viele Privatperfonen alt,"
         }
       },
       {
         "tl_25": {
-          "length": 53,
-          "distance": 0.12962962962962962
+          "char-length": 53,
+          "char-error-rate": 0.12962962962962962,
+          "word-error-rate": 0.375,
+          "gt": "die Wetterſtangen aufrichten zu laſſen, und bald wur-",
+          "ocr": "bie Wetterftangen aufrichten zu faffen , und bald wur"
         }
       },
       {
         "tl_26": {
-          "length": 18,
-          "distance": 0.1111111111111111
+          "char-length": 18,
+          "char-error-rate": 0.1111111111111111,
+          "word-error-rate": 0.6666666666666666,
+          "gt": "den ſie allgemein.",
+          "ocr": "ben fie allgemein."
         }
       },
       {
         "tl_27": {
-          "length": 48,
-          "distance": 0.14583333333333334
+          "char-length": 48,
+          "char-error-rate": 0.14583333333333334,
+          "word-error-rate": 0.42857142857142855,
+          "gt": "Nun fiel dieſem groſem Reichsfuͤrſten auch Chur-",
+          "ocr": "Nun fiel diefem grofem NRetchsfürften auch Chur"
         }
       },
       {
         "tl_28": {
-          "length": 49,
-          "distance": 0.1
+          "char-length": 49,
+          "char-error-rate": 0.1,
+          "word-error-rate": 0.25,
+          "gt": "Baiern durch Erbſchaft zu. Daher dachte er gleich",
+          "ocr": "MBaiern durch Srofchaft zu, Daher dachte er gleich"
         }
       },
       {
         "tl_29": {
-          "length": 49,
-          "distance": 0.0625
+          "char-length": 49,
+          "char-error-rate": 0.0625,
+          "word-error-rate": 0.25,
+          "gt": "darauf, auch ſein Muͤncher Schloß und das Sommer-",
+          "ocr": "darauf, auch fein Müncher Schloß und das Sommer:"
         }
       },
       {
         "tl_30": {
-          "length": 51,
-          "distance": 0.07692307692307693
+          "char-length": 51,
+          "char-error-rate": 0.07692307692307693,
+          "word-error-rate": 0.2857142857142857,
+          "gt": "Schloß zu Nymphenburg, durch Wetterableiter vor dem",
+          "ocr": "Sıhlof zu Nymphenburg , durch Werterableiter vor dem"
         }
       },
       {
         "tl_31": {
-          "length": 52,
-          "distance": 0.11538461538461539
+          "char-length": 52,
+          "char-error-rate": 0.11538461538461539,
+          "word-error-rate": 0.4444444444444444,
+          "gt": "Blitz zu verwahren. Aber hier geſchahe, was man kaum",
+          "ocr": "Blig zu verwahren, Aber hier gefchahe, mas man Faum"
         }
       },
       {
         "tl_32": {
-          "length": 57,
-          "distance": 0.1724137931034483
+          "char-length": 57,
+          "char-error-rate": 0.1724137931034483,
+          "word-error-rate": 0.5555555555555556,
+          "gt": "denken ſollte. Der Poͤbel wurde von der Geiſtlichkeit an-",
+          "ocr": "benfen follte, . Der Pabel wurde von der Seiftlichfeit ans"
         }
       },
       {
         "tl_33": {
-          "length": 53,
-          "distance": 0.2222222222222222
+          "char-length": 53,
+          "char-error-rate": 0.2222222222222222,
+          "word-error-rate": 0.7142857142857143,
+          "gt": "geſtiftet, ſich dieſem Unternehmen zu widerſetzen. Es",
+          "ocr": "geftifter , fi diefem Unternehmen zu widerfeßen. 8"
         }
       },
       {
         "tl_34": {
-          "length": 52,
-          "distance": 0.09615384615384616
+          "char-length": 52,
+          "char-error-rate": 0.09615384615384616,
+          "word-error-rate": 0.5,
+          "gt": "entſtund alſo ein Tumult, und die Wetterableiter mu-",
+          "ocr": "entftund alfo ein Tumult, und die Wetrerablefter mus"
         }
       },
       {
         "tl_35": {
-          "length": 53,
-          "distance": 0.09433962264150944
+          "char-length": 53,
+          "char-error-rate": 0.09433962264150944,
+          "word-error-rate": 0.5,
+          "gt": "ſten unter dem Schutz der Waffen aufgerichtet werden.",
+          "ocr": "ften unterdem Schuß der Waffen aufgerichtet werden,"
         }
       },
       {
         "tl_36": {
-          "length": 4,
-          "distance": 0.0
+          "char-length": 4,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "Kaum",
+          "ocr": "Kaum"
         }
       }
     ],
-    "length": 36,
-    "distance-mean": 0.1258570192240096,
-    "distance-varia": 0.0073526966823759775
+    "num-lines": 36,
+    "num-words": 258,
+    "num-chars": 1740,
+    "char-error-rate-mean": 0.12011494252873563,
+    "char-error-rate-varia": 0.003481060851186898,
+    "word-error-rate-mean": 0.437984496124031,
+    "word-error-rate-varia": 0.03180991584182498,
+    "char-error-worst-lines": [
+      "tl_16: avg=0.2542372881355932 len=59",
+      "tl_8: avg=0.2641509433962264 len=53",
+      "tl_33: avg=0.2222222222222222 len=54",
+      "tl_32: avg=0.1724137931034483 len=58",
+      "tl_4: avg=0.19607843137254902 len=51",
+      "tl_17: avg=0.17307692307692307 len=52",
+      "tl_12: avg=0.14285714285714285 len=56",
+      "tl_11: avg=0.15384615384615385 len=52",
+      "tl_3: avg=0.16 len=50",
+      "tl_27: avg=0.14583333333333334 len=48"
+    ]
   },
-  "OCR-D-GT-SEG-LINE,CALA-GT4HIST": {
+  "CALA-GT4HIST,OCR-D-GT-SEG-LINE": {
     "lines": [
       {
         "tl_1": {
-          "length": 2,
-          "distance": 0.6666666666666666
+          "char-length": 2,
+          "char-error-rate": 0.6666666666666666,
+          "word-error-rate": 1.0,
+          "gt": "11",
+          "ocr": "I1"
         }
       },
       {
         "tl_2": {
-          "length": 46,
-          "distance": 0.043478260869565216
+          "char-length": 46,
+          "char-error-rate": 0.043478260869565216,
+          "word-error-rate": 0.4,
+          "gt": "in den Ephemeridibus ſocietatis Meteorologicae",
+          "ocr": "in den Ephemeridibus ſoeietatis Meteorologieae"
         }
       },
       {
         "tl_3": {
-          "length": 52,
-          "distance": 0.0392156862745098
+          "char-length": 52,
+          "char-error-rate": 0.0392156862745098,
+          "word-error-rate": 0.2857142857142857,
+          "gt": "palatinae 1781. umſtaͤndlich erzaͤhlet werden. Maxi-",
+          "ocr": "palatinae 178 1. umſtaͤndlich erzaͤhlet werden. Maxi⸗"
         }
       },
       {
         "tl_4": {
-          "length": 51,
-          "distance": 0.0
+          "char-length": 51,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "milian Theodor, der Pfaͤlzer und Baiern Churfuͤrſt,",
+          "ocr": "milian Theodor, der Pfaͤlzer und Baiern Churfuͤrſt,"
         }
       },
       {
         "tl_5": {
-          "length": 53,
-          "distance": 0.038461538461538464
+          "char-length": 53,
+          "char-error-rate": 0.038461538461538464,
+          "word-error-rate": 0.125,
+          "gt": "ein eben so groſer und gruͤndlich gelehrter Naturfor-",
+          "ocr": "ein eben ſo groſer und gruͤndlich gelehrter Naturfor⸗"
         }
       },
       {
         "tl_6": {
-          "length": 56,
-          "distance": 0.0
+          "char-length": 56,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "ſcher, als weiſer und guter Regent beſchloß zuerſt unter",
+          "ocr": "ſcher, als weiſer und guter Regent beſchloß zuerſt unter"
         }
       },
       {
         "tl_7": {
-          "length": 54,
-          "distance": 0.0
+          "char-length": 54,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "den Fuͤrſten Deutſchlands die Wetterableiter in ſeinen",
+          "ocr": "den Fuͤrſten Deutſchlands die Wetterableiter in ſeinen"
         }
       },
       {
         "tl_8": {
-          "length": 50,
-          "distance": 0.02040816326530612
+          "char-length": 50,
+          "char-error-rate": 0.02040816326530612,
+          "word-error-rate": 0.0,
+          "gt": "Landen einzufuͤhren. Auf ſeinem Luſtſchloß Schwet-",
+          "ocr": "Landen einzufuͤhren. Auf ſeinem Luſtſchloß Schwet⸗"
         }
       },
       {
         "tl_9": {
-          "length": 54,
-          "distance": 0.0
+          "char-length": 54,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "zingen ließ er den erſten Wetterableiter anlegen. Kaum",
+          "ocr": "zingen ließ er den erſten Wetterableiter anlegen. Kaum"
         }
       },
       {
         "tl_10": {
-          "length": 54,
-          "distance": 0.018518518518518517
+          "char-length": 54,
+          "char-error-rate": 0.018518518518518517,
+          "word-error-rate": 0.0,
+          "gt": "war es geſchehen, ſo wurde er mit Bitten ſeiner Unter-",
+          "ocr": "war es geſchehen, ſo wurde er mit Bitten ſeiner Unter⸗"
         }
       },
       {
         "tl_11": {
-          "length": 52,
-          "distance": 0.0
+          "char-length": 52,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "thanen uͤberhaͤuft, es entweder zu unterlaſſen, oder",
+          "ocr": "thanen uͤberhaͤuft, es entweder zu unterlaſſen, oder"
         }
       },
       {
         "tl_12": {
-          "length": 56,
-          "distance": 0.03636363636363636
+          "char-length": 56,
+          "char-error-rate": 0.03636363636363636,
+          "word-error-rate": 0.1111111111111111,
+          "gt": "wenigſtens ſich nicht an einem so gefaͤhrlichen Ort auf-",
+          "ocr": "wenigſtens ſich nicht an einem ſo gefaͤhrlichen Ort auf⸗"
         }
       },
       {
         "tl_13": {
-          "length": 48,
-          "distance": 0.0
+          "char-length": 48,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "zuhalten. Allein er mußte, um die Vorurtheile zu",
+          "ocr": "zuhalten. Allein er mußte, um die Vorurtheile zu"
         }
       },
       {
         "tl_14": {
-          "length": 52,
-          "distance": 0.0
+          "char-length": 52,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "widerlegen, dieſe Bitte ſeiner Unterthanen verſagen.",
+          "ocr": "widerlegen, dieſe Bitte ſeiner Unterthanen verſagen."
         }
       },
       {
         "tl_15": {
-          "length": 45,
-          "distance": 0.0
+          "char-length": 45,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "Er wohnte dem naͤchſten Sommer auf ſeinem mit",
+          "ocr": "Er wohnte dem naͤchſten Sommer auf ſeinem mit"
         }
       },
       {
         "tl_16": {
-          "length": 53,
-          "distance": 0.03773584905660377
+          "char-length": 53,
+          "char-error-rate": 0.03773584905660377,
+          "word-error-rate": 0.5,
+          "gt": "Wetterableitern verſehenen Luſtschloß ruhig, waͤhrend",
+          "ocr": "Wetterableitern verſehenen Luſtſchloß ruhig, waͤh rend"
         }
       },
       {
         "tl_17": {
-          "length": 53,
-          "distance": 0.019230769230769232
+          "char-length": 53,
+          "char-error-rate": 0.019230769230769232,
+          "word-error-rate": 0.0,
+          "gt": "dem ſein Volk bey jedem Wetter aͤngſtlich um ſein Le-",
+          "ocr": "dem ſein Volk bey jedem Wetter aͤngſtlich um ſein Le⸗"
         }
       },
       {
         "tl_18": {
-          "length": 50,
-          "distance": 0.0
+          "char-length": 50,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "ben beſorgt war. Das folgende Jahr ließ er auch an",
+          "ocr": "ben beſorgt war. Das folgende Jahr ließ er auch an"
         }
       },
       {
         "tl_19": {
-          "length": 50,
-          "distance": 0.02
+          "char-length": 50,
+          "char-error-rate": 0.02,
+          "word-error-rate": 0.0,
+          "gt": "ſeinem Schloß zu Mannheim einen Wetterableiter an-",
+          "ocr": "ſeinem Schloß zu Mannheim einen Wetterableiter an⸗"
         }
       },
       {
         "tl_20": {
-          "length": 50,
-          "distance": 0.02040816326530612
+          "char-length": 50,
+          "char-error-rate": 0.02040816326530612,
+          "word-error-rate": 0.0,
+          "gt": "richten ; zwar nicht ganz ohne Beaͤngſtigung, aber",
+          "ocr": "richten; zwar nicht ganz ohne Beaͤngſtigung, aber"
         }
       },
       {
         "tl_21": {
-          "length": 51,
-          "distance": 0.0
+          "char-length": 51,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "ſchon mit mehrerer Beruhigung der Einwohner; da ſie",
+          "ocr": "ſchon mit mehrerer Beruhigung der Einwohner; da ſie"
         }
       },
       {
         "tl_22": {
-          "length": 51,
-          "distance": 0.02
+          "char-length": 51,
+          "char-error-rate": 0.02,
+          "word-error-rate": 0.0,
+          "gt": "wuſten, daß ihr Churfuͤrſt bereits einen Sommer un-",
+          "ocr": "wuſten, daß ihr Churfuͤrſt bereits einen Sommer un⸗"
         }
       },
       {
         "tl_23": {
-          "length": 52,
-          "distance": 0.019230769230769232
+          "char-length": 52,
+          "char-error-rate": 0.019230769230769232,
+          "word-error-rate": 0.14285714285714285,
+          "gt": "ter einem Wetterableiter ſicher zugebracht hatte. Im",
+          "ocr": "ter einem Wetterableiter ſicher zugebracht hatte. Jm"
         }
       },
       {
         "tl_24": {
-          "length": 51,
-          "distance": 0.0
+          "char-length": 51,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "dritten Jahr fiengen ſchon viele Privatperſonen an,",
+          "ocr": "dritten Jahr fiengen ſchon viele Privatperſonen an,"
         }
       },
       {
         "tl_25": {
-          "length": 53,
-          "distance": 0.018867924528301886
+          "char-length": 53,
+          "char-error-rate": 0.018867924528301886,
+          "word-error-rate": 0.0,
+          "gt": "die Wetterſtangen aufrichten zu laſſen, und bald wur-",
+          "ocr": "die Wetterſtangen aufrichten zu laſſen, und bald wur"
         }
       },
       {
         "tl_26": {
-          "length": 18,
-          "distance": 0.0
+          "char-length": 18,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "den ſie allgemein.",
+          "ocr": "den ſie allgemein."
         }
       },
       {
         "tl_27": {
-          "length": 48,
-          "distance": 0.02127659574468085
+          "char-length": 48,
+          "char-error-rate": 0.02127659574468085,
+          "word-error-rate": 0.0,
+          "gt": "Nun fiel dieſem groſem Reichsfuͤrſten auch Chur-",
+          "ocr": "Nun fiel dieſem groſem Reichsfuͤrſten auch Chur⸗"
         }
       },
       {
         "tl_28": {
-          "length": 49,
-          "distance": 0.0
+          "char-length": 49,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "Baiern durch Erbſchaft zu. Daher dachte er gleich",
+          "ocr": "Baiern durch Erbſchaft zu. Daher dachte er gleich"
         }
       },
       {
         "tl_29": {
-          "length": 49,
-          "distance": 0.020833333333333332
+          "char-length": 49,
+          "char-error-rate": 0.020833333333333332,
+          "word-error-rate": 0.0,
+          "gt": "darauf, auch ſein Muͤncher Schloß und das Sommer-",
+          "ocr": "darauf, auch ſein Muͤncher Schloß und das Sommer⸗"
         }
       },
       {
         "tl_30": {
-          "length": 51,
-          "distance": 0.0
+          "char-length": 51,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "Schloß zu Nymphenburg, durch Wetterableiter vor dem",
+          "ocr": "Schloß zu Nymphenburg, durch Wetterableiter vor dem"
         }
       },
       {
         "tl_31": {
-          "length": 52,
-          "distance": 0.0
+          "char-length": 52,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "Blitz zu verwahren. Aber hier geſchahe, was man kaum",
+          "ocr": "Blitz zu verwahren. Aber hier geſchahe, was man kaum"
         }
       },
       {
         "tl_32": {
-          "length": 57,
-          "distance": 0.017857142857142856
+          "char-length": 57,
+          "char-error-rate": 0.017857142857142856,
+          "word-error-rate": 0.0,
+          "gt": "denken ſollte. Der Poͤbel wurde von der Geiſtlichkeit an-",
+          "ocr": "denken ſollte. Der Poͤbel wurde von der Geiſtlichkeit an⸗"
         }
       },
       {
         "tl_33": {
-          "length": 53,
-          "distance": 0.0
+          "char-length": 53,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "geſtiftet, ſich dieſem Unternehmen zu widerſetzen. Es",
+          "ocr": "geſtiftet, ſich dieſem Unternehmen zu widerſetzen. Es"
         }
       },
       {
         "tl_34": {
-          "length": 52,
-          "distance": 0.019230769230769232
+          "char-length": 52,
+          "char-error-rate": 0.019230769230769232,
+          "word-error-rate": 0.0,
+          "gt": "entſtund alſo ein Tumult, und die Wetterableiter mu-",
+          "ocr": "entſtund alſo ein Tumult, und die Wetterableiter mu⸗"
         }
       },
       {
         "tl_35": {
-          "length": 53,
-          "distance": 0.018867924528301886
+          "char-length": 53,
+          "char-error-rate": 0.018867924528301886,
+          "word-error-rate": 0.125,
+          "gt": "ſten unter dem Schutz der Waffen aufgerichtet werden.",
+          "ocr": "ſten unter dem Schutß der Waffen aufgerichtet werden."
         }
       },
       {
         "tl_36": {
-          "length": 4,
-          "distance": 0.0
+          "char-length": 4,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "Kaum",
+          "ocr": "Kaum"
         }
       }
     ],
-    "length": 36,
-    "distance-mean": 0.03101810309515887,
-    "distance-varia": 0.011735134424929924
+    "num-lines": 36,
+    "num-words": 259,
+    "num-chars": 1710,
+    "char-error-rate-mean": 0.01461988304093567,
+    "char-error-rate-varia": 0.0009433194579502039,
+    "word-error-rate-mean": 0.04633204633204632,
+    "word-error-rate-varia": 0.01474676551896629,
+    "char-error-worst-lines": [
+      "tl_16: avg=0.03773584905660377 len=53",
+      "tl_12: avg=0.03636363636363636 len=55",
+      "tl_5: avg=0.038461538461538464 len=52",
+      "tl_3: avg=0.0392156862745098 len=51",
+      "tl_2: avg=0.043478260869565216 len=46",
+      "tl_1: avg=0.6666666666666666 len=3",
+      "tl_35: avg=0.018867924528301886 len=53",
+      "tl_34: avg=0.019230769230769232 len=52",
+      "tl_32: avg=0.017857142857142856 len=56",
+      "tl_29: avg=0.020833333333333332 len=48"
+    ]
   }
 }

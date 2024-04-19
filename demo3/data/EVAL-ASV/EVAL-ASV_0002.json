@@ -1,455 +1,719 @@
 {
-  "OCR-D-GT-SEG-LINE,TESS-GT4HIST": {
+  "TESS-GT4HIST,OCR-D-GT-SEG-LINE": {
     "lines": [
       {
         "tl_2": {
-          "length": 3,
-          "distance": 0.0
+          "char-length": 3,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "Dem",
+          "ocr": "Dem"
         }
       },
       {
         "tl_3": {
-          "length": 26,
-          "distance": 0.0
+          "char-length": 26,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "Durchlauchtigſten Fuͤrſten",
+          "ocr": "Durchlauchtigſten Fuͤrſten"
         }
       },
       {
         "tl_4": {
-          "length": 3,
-          "distance": 0.0
+          "char-length": 3,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "und",
+          "ocr": "und"
         }
       },
       {
         "tl_5": {
-          "length": 12,
-          "distance": 0.0
+          "char-length": 12,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "HERRN, HERRN",
+          "ocr": "HERRN, HERRN"
         }
       },
       {
         "tl_6": {
-          "length": 20,
-          "distance": 0.0
+          "char-length": 20,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "Chriſtian Friederich",
+          "ocr": "Chriſtian Friederich"
         }
       },
       {
         "tl_7": {
-          "length": 15,
-          "distance": 0.0
+          "char-length": 15,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "Carl Alexander,",
+          "ocr": "Carl Alexander,"
         }
       },
       {
         "tl_8": {
-          "length": 37,
-          "distance": 0.0
+          "char-length": 37,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "Marggrafen zu Brandenburg in Preußen,",
+          "ocr": "Marggrafen zu Brandenburg in Preußen,"
         }
       },
       {
         "tl_9": {
-          "length": 46,
-          "distance": 0.0
+          "char-length": 46,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "zu Schleſien, Magdeburg, Cleve, Juͤlich, Berg,",
+          "ocr": "zu Schleſien, Magdeburg, Cleve, Juͤlich, Berg,"
         }
       },
       {
         "tl_10": {
-          "length": 42,
-          "distance": 0.0
+          "char-length": 42,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "Stettin, Pommern, der Caſſuben und Wenden,",
+          "ocr": "Stettin, Pommern, der Caſſuben und Wenden,"
         }
       },
       {
         "tl_11": {
-          "length": 46,
-          "distance": 0.021739130434782608
+          "char-length": 46,
+          "char-error-rate": 0.021739130434782608,
+          "word-error-rate": 0.0,
+          "gt": "zu Mecklenburg und zu Croßen Herzoge; Burggra-",
+          "ocr": "zu Mecklenburg und zu Croßen Herzoge; Burggra⸗"
         }
       },
       {
         "tl_12": {
-          "length": 48,
-          "distance": 0.043478260869565216
+          "char-length": 48,
+          "char-error-rate": 0.043478260869565216,
+          "word-error-rate": 0.0,
+          "gt": "fen zu Nuͤrnberg, ober - und unterhalb Gebuͤrgs;",
+          "ocr": "fen zu Nuͤrnberg, ober⸗ und unterhalb Gebuͤrgs;"
         }
       },
       {
         "tl_13": {
-          "length": 47,
-          "distance": 0.021739130434782608
+          "char-length": 47,
+          "char-error-rate": 0.021739130434782608,
+          "word-error-rate": 0.16666666666666666,
+          "gt": "Fuͤrsten zu Halberſtadt, Minden, Camin, Wenden,",
+          "ocr": "Fuͤrſten zu Halberſtadt, Minden, Camin, Wenden,"
         }
       },
       {
         "tl_14": {
-          "length": 47,
-          "distance": 0.0
+          "char-length": 47,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "Schwerin, Ratzeburg und Moͤrs; Grafen zu Glatz,",
+          "ocr": "Schwerin, Ratzeburg und Moͤrs; Grafen zu Glatz,"
         }
       },
       {
         "tl_15": {
-          "length": 45,
-          "distance": 0.022222222222222223
+          "char-length": 45,
+          "char-error-rate": 0.022222222222222223,
+          "word-error-rate": 0.0,
+          "gt": "Hohenzollern, der Mark, Ravensberg und Schwe-",
+          "ocr": "Hohenzollern, der Mark, Ravensberg und Schwe⸗"
         }
       },
       {
         "tl_16": {
-          "length": 47,
-          "distance": 0.0
+          "char-length": 47,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "rin; Herrn zu Ravenſtein, der Lande Roſtock und",
+          "ocr": "rin; Herrn zu Ravenſtein, der Lande Roſtock und"
         }
       },
       {
         "tl_17": {
-          "length": 42,
-          "distance": 0.0
+          "char-length": 42,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "Stargard; Grafen zu Sayn und Wittgenſtein;",
+          "ocr": "Stargard; Grafen zu Sayn und Wittgenſtein;"
         }
       },
       {
         "tl_18": {
-          "length": 48,
-          "distance": 0.021739130434782608
+          "char-length": 48,
+          "char-error-rate": 0.021739130434782608,
+          "word-error-rate": 0.0,
+          "gt": "Herrn zu Limburg ꝛc. ꝛc. Des loͤblichen Fraͤnki-",
+          "ocr": "Herrn zu Limburg ꝛc. ꝛc. Des loͤblichen Fraͤnki⸗"
         }
       },
       {
         "tl_19": {
-          "length": 48,
-          "distance": 0.0625
+          "char-length": 48,
+          "char-error-rate": 0.0625,
+          "word-error-rate": 0.0,
+          "gt": "ſchen Craißes Craiß.  Oberſten und General Feld-",
+          "ocr": "ſchen Craißes Craiß⸗ Oberſten und General Feld⸗"
         }
       },
       {
         "tl_20": {
-          "length": 52,
-          "distance": 0.0
+          "char-length": 52,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "Marſchall; Ihro Roͤmiſch Kaiſerl. Koͤnigl. Majeſtaͤt",
+          "ocr": "Marſchall; Ihro Roͤmiſch Kaiſerl. Koͤnigl. Majeſtaͤt"
         }
       },
       {
         "tl_21": {
-          "length": 47,
-          "distance": 0.043478260869565216
+          "char-length": 47,
+          "char-error-rate": 0.043478260869565216,
+          "word-error-rate": 0.0,
+          "gt": "General- Major; Ihro Koͤnigl. Preußiſchen Maje-",
+          "ocr": "General Major; Ihro Koͤnigl. Preußiſchen Maje⸗"
         }
       },
       {
         "tl_22": {
-          "length": 45,
-          "distance": 0.06976744186046512
+          "char-length": 45,
+          "char-error-rate": 0.06976744186046512,
+          "word-error-rate": 0.0,
+          "gt": "ſtaͤt General - Lieutenant und Obriſten uͤber",
+          "ocr": "ſtaͤt General⸗Lieutenant und Obriſten uͤber"
         }
       },
       {
         "tl_23": {
-          "length": 26,
-          "distance": 0.0
+          "char-length": 26,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "drey Cavallerie Regimenter",
+          "ocr": "drey Cavallerie Regimenter"
         }
       },
       {
         "tl_26": {
-          "length": 27,
-          "distance": 0.0
+          "char-length": 27,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "Meinem gnaͤdigſten Fuͤrſten",
+          "ocr": "Meinem gnaͤdigſten Fuͤrſten"
         }
       },
       {
         "tl_27": {
-          "length": 10,
-          "distance": 0.0
+          "char-length": 10,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "und Herrn.",
+          "ocr": "und Herrn."
         }
       }
     ],
-    "length": 24,
-    "distance-mean": 0.012777649046923566,
-    "distance-varia": 0.00043948421887167883
+    "num-lines": 24,
+    "num-words": 115,
+    "num-chars": 813,
+    "char-error-rate-mean": 0.017220172201722016,
+    "char-error-rate-varia": 0.0005130043933113383,
+    "word-error-rate-mean": 0.008695652173913044,
+    "word-error-rate-varia": 0.0013736609955891617,
+    "char-error-worst-lines": [
+      "tl_22: avg=0.06976744186046512 len=43",
+      "tl_19: avg=0.0625 len=48",
+      "tl_21: avg=0.043478260869565216 len=46",
+      "tl_12: avg=0.043478260869565216 len=46",
+      "tl_18: avg=0.021739130434782608 len=46",
+      "tl_15: avg=0.022222222222222223 len=45",
+      "tl_13: avg=0.021739130434782608 len=46",
+      "tl_11: avg=0.021739130434782608 len=46",
+      "tl_27: avg=0.0 len=10",
+      "tl_26: avg=0.0 len=25"
+    ]
   },
-  "OCR-D-GT-SEG-LINE,TESS-DEU": {
+  "TESS-DEU,OCR-D-GT-SEG-LINE": {
     "lines": [
       {
         "tl_2": {
-          "length": 3,
-          "distance": 0.6666666666666666
+          "char-length": 3,
+          "char-error-rate": 0.6666666666666666,
+          "word-error-rate": 1.0,
+          "gt": "Dem",
+          "ocr": "Ye"
         }
       },
       {
         "tl_3": {
-          "length": 26,
-          "distance": 0.2
+          "char-length": 26,
+          "char-error-rate": 0.2,
+          "word-error-rate": 1.0,
+          "gt": "Durchlauchtigſten Fuͤrſten",
+          "ocr": "Durchlauchtigften Surfen"
         }
       },
       {
         "tl_4": {
-          "length": 3,
-          "distance": 0.3333333333333333
+          "char-length": 3,
+          "char-error-rate": 0.3333333333333333,
+          "word-error-rate": 1.0,
+          "gt": "und",
+          "ocr": "uns"
         }
       },
       {
         "tl_5": {
-          "length": 12,
-          "distance": 0.21428571428571427
+          "char-length": 12,
+          "char-error-rate": 0.21428571428571427,
+          "word-error-rate": 0.6666666666666666,
+          "gt": "HERRN, HERRN",
+          "ocr": "HERRN, HENRN I"
         }
       },
       {
         "tl_6": {
-          "length": 20,
-          "distance": 0.15
+          "char-length": 20,
+          "char-error-rate": 0.15,
+          "word-error-rate": 1.0,
+          "gt": "Chriſtian Friederich",
+          "ocr": "Chriftian FricdericD"
         }
       },
       {
         "tl_7": {
-          "length": 15,
-          "distance": 0.0
+          "char-length": 15,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "Carl Alexander,",
+          "ocr": "Carl Alexander,"
         }
       },
       {
         "tl_8": {
-          "length": 37,
-          "distance": 0.05405405405405406
+          "char-length": 37,
+          "char-error-rate": 0.05405405405405406,
+          "word-error-rate": 0.2,
+          "gt": "Marggrafen zu Brandenburg in Preußen,",
+          "ocr": "Maraarafen zu Brandenburg in Preußen,"
         }
       },
       {
         "tl_9": {
-          "length": 46,
-          "distance": 0.1702127659574468
+          "char-length": 46,
+          "char-error-rate": 0.1702127659574468,
+          "word-error-rate": 0.8333333333333334,
+          "gt": "zu Schleſien, Magdeburg, Cleve, Juͤlich, Berg,",
+          "ocr": "eu Schlefien, Magdeburg, EClevus, Zulich, Derg,"
         }
       },
       {
         "tl_10": {
-          "length": 42,
-          "distance": 0.11363636363636363
+          "char-length": 42,
+          "char-error-rate": 0.11363636363636363,
+          "word-error-rate": 0.3333333333333333,
+          "gt": "Stettin, Pommern, der Caſſuben und Wenden,",
+          "ocr": "Stettin, Pommern, der. Caffuben und ABenden,"
         }
       },
       {
         "tl_11": {
-          "length": 46,
-          "distance": 0.10638297872340426
+          "char-length": 46,
+          "char-error-rate": 0.10638297872340426,
+          "word-error-rate": 0.5714285714285714,
+          "gt": "zu Mecklenburg und zu Croßen Herzoge; Burggra-",
+          "ocr": "zu Meckhlenburg und zw Eroßen Herzoge; Durggras"
         }
       },
       {
         "tl_12": {
-          "length": 48,
-          "distance": 0.1276595744680851
+          "char-length": 48,
+          "char-error-rate": 0.1276595744680851,
+          "word-error-rate": 0.2857142857142857,
+          "gt": "fen zu Nuͤrnberg, ober - und unterhalb Gebuͤrgs;",
+          "ocr": "fen zu Nlırnberg, ober und unterhalb Seburgs;"
         }
       },
       {
         "tl_13": {
-          "length": 47,
-          "distance": 0.08695652173913043
+          "char-length": 47,
+          "char-error-rate": 0.08695652173913043,
+          "word-error-rate": 0.3333333333333333,
+          "gt": "Fuͤrsten zu Halberſtadt, Minden, Camin, Wenden,",
+          "ocr": "Kürften zu Halberitadt, Minden, Camin, Wenden,"
         }
       },
       {
         "tl_14": {
-          "length": 47,
-          "distance": 0.17391304347826086
+          "char-length": 47,
+          "char-error-rate": 0.17391304347826086,
+          "word-error-rate": 0.5714285714285714,
+          "gt": "Schwerin, Ratzeburg und Moͤrs; Grafen zu Glatz,",
+          "ocr": "Schwerin, Raßeburg und Mors; Srafen zu Slaßy"
         }
       },
       {
         "tl_15": {
-          "length": 45,
-          "distance": 0.06521739130434782
+          "char-length": 45,
+          "char-error-rate": 0.06521739130434782,
+          "word-error-rate": 0.5,
+          "gt": "Hohenzollern, der Mark, Ravensberg und Schwe-",
+          "ocr": "Hohenzollern, der Marf, NRavensberg und Schwer"
         }
       },
       {
         "tl_16": {
-          "length": 47,
-          "distance": 0.1836734693877551
+          "char-length": 47,
+          "char-error-rate": 0.1836734693877551,
+          "word-error-rate": 0.375,
+          "gt": "rin; Herrn zu Ravenſtein, der Lande Roſtock und",
+          "ocr": "rin; Herrn zu MNMavenftein, der kande Mojfoek und"
         }
       },
       {
         "tl_17": {
-          "length": 42,
-          "distance": 0.11904761904761904
+          "char-length": 42,
+          "char-error-rate": 0.11904761904761904,
+          "word-error-rate": 0.5,
+          "gt": "Stargard; Grafen zu Sayn und Wittgenſtein;",
+          "ocr": "Stargard; Srafen zu Say und Wirtgenfiein;"
         }
       },
       {
         "tl_18": {
-          "length": 48,
-          "distance": 0.2391304347826087
+          "char-length": 48,
+          "char-error-rate": 0.2391304347826087,
+          "word-error-rate": 0.625,
+          "gt": "Herrn zu Limburg ꝛc. ꝛc. Des loͤblichen Fraͤnki-",
+          "ocr": "Herrn zu Hmburg 20. 26. Des 1öblichen Frank"
         }
       },
       {
         "tl_19": {
-          "length": 48,
-          "distance": 0.21153846153846154
+          "char-length": 48,
+          "char-error-rate": 0.21153846153846154,
+          "word-error-rate": 0.7142857142857143,
+          "gt": "ſchen Craißes Craiß.  Oberſten und General Feld-",
+          "ocr": "(chen Eraißes Craiß » OYOberfien und Seneral „Felde"
         }
       },
       {
         "tl_20": {
-          "length": 52,
-          "distance": 0.16326530612244897
+          "char-length": 52,
+          "char-error-rate": 0.16326530612244897,
+          "word-error-rate": 0.8333333333333334,
+          "gt": "Marſchall; Ihro Roͤmiſch Kaiſerl. Koͤnigl. Majeſtaͤt",
+          "ocr": "Marfchall; Ihro Nömifch Kaiferl. Königl. Majeltät"
         }
       },
       {
         "tl_21": {
-          "length": 47,
-          "distance": 0.1276595744680851
+          "char-length": 47,
+          "char-error-rate": 0.1276595744680851,
+          "word-error-rate": 0.5714285714285714,
+          "gt": "General- Major; Ihro Koͤnigl. Preußiſchen Maje-",
+          "ocr": "General s Major; Ihro Königl. Preußifchen Iajes"
         }
       },
       {
         "tl_22": {
-          "length": 45,
-          "distance": 0.2608695652173913
+          "char-length": 45,
+          "char-error-rate": 0.2608695652173913,
+          "word-error-rate": 0.6666666666666666,
+          "gt": "ſtaͤt General - Lieutenant und Obriſten uͤber",
+          "ocr": "ade General = Heutenant und OYÖbriften uber"
         }
       },
       {
         "tl_23": {
-          "length": 26,
-          "distance": 0.1111111111111111
+          "char-length": 26,
+          "char-error-rate": 0.1111111111111111,
+          "word-error-rate": 0.6666666666666666,
+          "gt": "drey Cavallerie Regimenter",
+          "ocr": "bren Cavallerie MRegimenter"
         }
       },
       {
         "tl_26": {
-          "length": 27,
-          "distance": 0.4482758620689655
+          "char-length": 27,
+          "char-error-rate": 0.4482758620689655,
+          "word-error-rate": 1.0,
+          "gt": "Meinem gnaͤdigſten Fuͤrſten",
+          "ocr": "Meinen: anddigften Surken"
         }
       },
       {
         "tl_27": {
-          "length": 10,
-          "distance": 0.9
+          "char-length": 10,
+          "char-error-rate": 0.9,
+          "word-error-rate": 1.0,
+          "gt": "und Herrn.",
+          "ocr": "0 DEN,"
         }
       }
     ],
-    "length": 24,
-    "distance-mean": 0.21778707547463558,
-    "distance-varia": 0.03851040302007849
+    "num-lines": 24,
+    "num-words": 117,
+    "num-chars": 837,
+    "char-error-rate-mean": 0.16965352449223417,
+    "char-error-rate-varia": 0.013869129907507275,
+    "word-error-rate-mean": 0.5726495726495726,
+    "word-error-rate-varia": 0.05198699685879175,
+    "char-error-worst-lines": [
+      "tl_26: avg=0.4482758620689655 len=29",
+      "tl_22: avg=0.2608695652173913 len=46",
+      "tl_19: avg=0.21153846153846154 len=52",
+      "tl_18: avg=0.2391304347826087 len=46",
+      "tl_27: avg=0.9 len=10",
+      "tl_16: avg=0.1836734693877551 len=49",
+      "tl_14: avg=0.17391304347826086 len=46",
+      "tl_9: avg=0.1702127659574468 len=47",
+      "tl_20: avg=0.16326530612244897 len=49",
+      "tl_21: avg=0.1276595744680851 len=47"
+    ]
   },
-  "OCR-D-GT-SEG-LINE,CALA-GT4HIST": {
+  "CALA-GT4HIST,OCR-D-GT-SEG-LINE": {
     "lines": [
       {
         "tl_2": {
-          "length": 3,
-          "distance": 0.0
+          "char-length": 3,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "Dem",
+          "ocr": "Dem"
         }
       },
       {
         "tl_3": {
-          "length": 26,
-          "distance": 0.0
+          "char-length": 26,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "Durchlauchtigſten Fuͤrſten",
+          "ocr": "Durchlauchtigſten Fuͤrſten"
         }
       },
       {
         "tl_4": {
-          "length": 3,
-          "distance": 0.0
+          "char-length": 3,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "und",
+          "ocr": "und"
         }
       },
       {
         "tl_5": {
-          "length": 12,
-          "distance": 0.15384615384615385
+          "char-length": 12,
+          "char-error-rate": 0.15384615384615385,
+          "word-error-rate": 0.75,
+          "gt": "HERRN, HERRN",
+          "ocr": "H ERRM, HERRN"
         }
       },
       {
         "tl_6": {
-          "length": 20,
-          "distance": 0.0
+          "char-length": 20,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "Chriſtian Friederich",
+          "ocr": "Chriſtian Friederich"
         }
       },
       {
         "tl_7": {
-          "length": 15,
-          "distance": 0.0
+          "char-length": 15,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "Carl Alexander,",
+          "ocr": "Carl Alexander,"
         }
       },
       {
         "tl_8": {
-          "length": 37,
-          "distance": 0.0
+          "char-length": 37,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "Marggrafen zu Brandenburg in Preußen,",
+          "ocr": "Marggrafen zu Brandenburg in Preußen,"
         }
       },
       {
         "tl_9": {
-          "length": 46,
-          "distance": 0.044444444444444446
+          "char-length": 46,
+          "char-error-rate": 0.044444444444444446,
+          "word-error-rate": 0.16666666666666666,
+          "gt": "zu Schleſien, Magdeburg, Cleve, Juͤlich, Berg,",
+          "ocr": "gu Schleſien, Magdeburg, Cleve, Juͤlich, Berg⸗"
         }
       },
       {
         "tl_10": {
-          "length": 42,
-          "distance": 0.023255813953488372
+          "char-length": 42,
+          "char-error-rate": 0.023255813953488372,
+          "word-error-rate": 0.0,
+          "gt": "Stettin, Pommern, der Caſſuben und Wenden,",
+          "ocr": "Stettin, Pommern, der Caſſuben und Wenden ,"
         }
       },
       {
         "tl_11": {
-          "length": 46,
-          "distance": 0.021739130434782608
+          "char-length": 46,
+          "char-error-rate": 0.021739130434782608,
+          "word-error-rate": 0.0,
+          "gt": "zu Mecklenburg und zu Croßen Herzoge; Burggra-",
+          "ocr": "zu Mecklenburg und zu Croßen Herzoge; Burggra⸗"
         }
       },
       {
         "tl_12": {
-          "length": 48,
-          "distance": 0.043478260869565216
+          "char-length": 48,
+          "char-error-rate": 0.043478260869565216,
+          "word-error-rate": 0.0,
+          "gt": "fen zu Nuͤrnberg, ober - und unterhalb Gebuͤrgs;",
+          "ocr": "fen zu Nuͤrnberg, ober⸗ und unterhalb Gebuͤrgs;"
         }
       },
       {
         "tl_13": {
-          "length": 47,
-          "distance": 0.021739130434782608
+          "char-length": 47,
+          "char-error-rate": 0.021739130434782608,
+          "word-error-rate": 0.16666666666666666,
+          "gt": "Fuͤrsten zu Halberſtadt, Minden, Camin, Wenden,",
+          "ocr": "Fuͤrſten zu Halberſtadt, Minden, Camin, Wenden,"
         }
       },
       {
         "tl_14": {
-          "length": 47,
-          "distance": 0.0425531914893617
+          "char-length": 47,
+          "char-error-rate": 0.0425531914893617,
+          "word-error-rate": 0.0,
+          "gt": "Schwerin, Ratzeburg und Moͤrs; Grafen zu Glatz,",
+          "ocr": "Schwerin, Ratzeburg und Moͤrs; Grafen zu Glatz /"
         }
       },
       {
         "tl_15": {
-          "length": 45,
-          "distance": 0.022222222222222223
+          "char-length": 45,
+          "char-error-rate": 0.022222222222222223,
+          "word-error-rate": 0.0,
+          "gt": "Hohenzollern, der Mark, Ravensberg und Schwe-",
+          "ocr": "Hohenzollern, der Mark, Ravensberg und Schwe⸗"
         }
       },
       {
         "tl_16": {
-          "length": 47,
-          "distance": 0.0
+          "char-length": 47,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "rin; Herrn zu Ravenſtein, der Lande Roſtock und",
+          "ocr": "rin; Herrn zu Ravenſtein, der Lande Roſtock und"
         }
       },
       {
         "tl_17": {
-          "length": 42,
-          "distance": 0.0
+          "char-length": 42,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "Stargard; Grafen zu Sayn und Wittgenſtein;",
+          "ocr": "Stargard; Grafen zu Sayn und Wittgenſtein;"
         }
       },
       {
         "tl_18": {
-          "length": 48,
-          "distance": 0.06521739130434782
+          "char-length": 48,
+          "char-error-rate": 0.06521739130434782,
+          "word-error-rate": 0.25,
+          "gt": "Herrn zu Limburg ꝛc. ꝛc. Des loͤblichen Fraͤnki-",
+          "ocr": "Herrn zu Limburg c. ꝛe. Des loͤblichen Fraͤnki⸗"
         }
       },
       {
         "tl_19": {
-          "length": 48,
-          "distance": 0.0625
+          "char-length": 48,
+          "char-error-rate": 0.0625,
+          "word-error-rate": 0.0,
+          "gt": "ſchen Craißes Craiß.  Oberſten und General Feld-",
+          "ocr": "ſchen Craißes Craiß Oberſten und General Feld⸗"
         }
       },
       {
         "tl_20": {
-          "length": 52,
-          "distance": 0.02040816326530612
+          "char-length": 52,
+          "char-error-rate": 0.02040816326530612,
+          "word-error-rate": 0.16666666666666666,
+          "gt": "Marſchall; Ihro Roͤmiſch Kaiſerl. Koͤnigl. Majeſtaͤt",
+          "ocr": "Marſchall; Jhro Roͤmiſch Kaiſerl. Koͤnigl. Majeſtaͤt"
         }
       },
       {
         "tl_21": {
-          "length": 47,
-          "distance": 0.06521739130434782
+          "char-length": 47,
+          "char-error-rate": 0.06521739130434782,
+          "word-error-rate": 0.16666666666666666,
+          "gt": "General- Major; Ihro Koͤnigl. Preußiſchen Maje-",
+          "ocr": "General. Major; Jhro Koͤnigl. Preußiſchen Maje⸗"
         }
       },
       {
         "tl_22": {
-          "length": 45,
-          "distance": 0.046511627906976744
+          "char-length": 45,
+          "char-error-rate": 0.046511627906976744,
+          "word-error-rate": 0.0,
+          "gt": "ſtaͤt General - Lieutenant und Obriſten uͤber",
+          "ocr": "ſtaͤt General⸗ Lieutenant und Obriſten uͤber"
         }
       },
       {
         "tl_23": {
-          "length": 26,
-          "distance": 0.037037037037037035
+          "char-length": 26,
+          "char-error-rate": 0.037037037037037035,
+          "word-error-rate": 0.3333333333333333,
+          "gt": "drey Cavallerie Regimenter",
+          "ocr": "dreyn Cavallerie Regimenter"
         }
       },
       {
         "tl_26": {
-          "length": 27,
-          "distance": 0.0
+          "char-length": 27,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "Meinem gnaͤdigſten Fuͤrſten",
+          "ocr": "Meinem gnaͤdigſten Fuͤrſten"
         }
       },
       {
         "tl_27": {
-          "length": 10,
-          "distance": 0.0
+          "char-length": 10,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "und Herrn.",
+          "ocr": "und Herrn."
         }
       }
     ],
-    "length": 24,
-    "distance-mean": 0.027923748271367354,
-    "distance-varia": 0.0012073206835043176
+    "num-lines": 24,
+    "num-words": 117,
+    "num-chars": 817,
+    "char-error-rate-mean": 0.030599755201958383,
+    "char-error-rate-varia": 0.0007611742010253978,
+    "word-error-rate-mean": 0.08547008547008547,
+    "word-error-rate-varia": 0.02474614654101833,
+    "char-error-worst-lines": [
+      "tl_21: avg=0.06521739130434782 len=46",
+      "tl_19: avg=0.0625 len=48",
+      "tl_18: avg=0.06521739130434782 len=46",
+      "tl_22: avg=0.046511627906976744 len=43",
+      "tl_14: avg=0.0425531914893617 len=47",
+      "tl_12: avg=0.043478260869565216 len=46",
+      "tl_9: avg=0.044444444444444446 len=45",
+      "tl_5: avg=0.15384615384615385 len=13",
+      "tl_23: avg=0.037037037037037035 len=27",
+      "tl_15: avg=0.022222222222222223 len=45"
+    ]
   }
 }

@@ -1,653 +1,1016 @@
 {
-  "OCR-D-GT-SEG-LINE,TESS-GT4HIST": {
+  "TESS-GT4HIST,OCR-D-GT-SEG-LINE": {
     "lines": [
       {
         "tl_1": {
-          "length": 1,
-          "distance": 1.0
+          "char-length": 1,
+          "char-error-rate": 1.0,
+          "word-error-rate": 1.0,
+          "gt": "4",
+          "ocr": ""
         }
       },
       {
         "tl_2": {
-          "length": 55,
-          "distance": 0.018867924528301886
+          "char-length": 55,
+          "char-error-rate": 0.018867924528301886,
+          "word-error-rate": 0.125,
+          "gt": "gegen einen andern Koͤrper hinhielt, er leichte Koͤrper",
+          "ocr": "gegen einen andern Koͤrver hinhielt, er leichte Koͤrper"
         }
       },
       {
         "tl_3": {
-          "length": 52,
-          "distance": 0.0
+          "char-length": 52,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "an ſich zog, kniſterte und in der Dunkelheit, kleine",
+          "ocr": "an ſich zog, kniſterte und in der Dunkelheit, kleine"
         }
       },
       {
         "tl_4": {
-          "length": 50,
-          "distance": 0.0
+          "char-length": 50,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "Fuͤnkchen ſehen ließ. Weil der Bernſtein, electrum",
+          "ocr": "Fuͤnkchen ſehen ließ. Weil der Bernſtein, electrum"
         }
       },
       {
         "tl_5": {
-          "length": 54,
-          "distance": 0.018518518518518517
+          "char-length": 54,
+          "char-error-rate": 0.018518518518518517,
+          "word-error-rate": 0.125,
+          "gt": "heiſt, ſo nannte man dieſes Feuer, electriſches Feuer.",
+          "ocr": "heiſt, ſo naunte man dieſes Feuer, electriſches Feuer."
         }
       },
       {
         "tl_6": {
-          "length": 49,
-          "distance": 0.04
+          "char-length": 49,
+          "char-error-rate": 0.04,
+          "word-error-rate": 0.0,
+          "gt": "Man bemerkte hernach auch, daß Glas, Pech, Schwe-",
+          "ocr": "Man bemerkte hernach auch, daß Glas, Pech, Schwe—⸗"
         }
       },
       {
         "tl_7": {
-          "length": 50,
-          "distance": 0.04
+          "char-length": 50,
+          "char-error-rate": 0.04,
+          "word-error-rate": 0.1111111111111111,
+          "gt": "fel, Siegellac *) u. d. g. das nehmliche Feuer von",
+          "ocr": "fel, Siegellae ) u. d. g. das nehmliche Feuer von"
         }
       },
       {
         "tl_8": {
-          "length": 52,
-          "distance": 0.0
+          "char-length": 52,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "ſich geben, wenn man ſie entweder mit der Hand, oder",
+          "ocr": "ſich geben, wenn man ſie entweder mit der Hand, oder"
         }
       },
       {
         "tl_9": {
-          "length": 33,
-          "distance": 0.0
+          "char-length": 33,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "mit einem ledernen Kuͤſſen reibt.",
+          "ocr": "mit einem ledernen Kuͤſſen reibt."
         }
       },
       {
         "tl_10": {
-          "length": 45,
-          "distance": 0.044444444444444446
+          "char-length": 45,
+          "char-error-rate": 0.044444444444444446,
+          "word-error-rate": 0.125,
+          "gt": "Daher machte man Maſchienen in welche man Ku-",
+          "ocr": "Daher machte man Maſchienen in welche mai Ku⸗"
         }
       },
       {
         "tl_11": {
-          "length": 52,
-          "distance": 0.11538461538461539
+          "char-length": 52,
+          "char-error-rate": 0.11538461538461539,
+          "word-error-rate": 0.3333333333333333,
+          "gt": "geln von Glas, oder Schwefel **) einſezte, und durch",
+          "ocr": "gein von Glas, vder Schwefel N einſezte und durch"
         }
       },
       {
         "tl_12": {
-          "length": 50,
-          "distance": 0.0
+          "char-length": 50,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "ein Rad herum trieb; an die Kugel aber ein Kuͤſſen",
+          "ocr": "ein Rad herum trieb; an die Kugel aber ein Kuͤſſen"
         }
       },
       {
         "tl_13": {
-          "length": 49,
-          "distance": 0.02040816326530612
+          "char-length": 49,
+          "char-error-rate": 0.02040816326530612,
+          "word-error-rate": 0.0,
+          "gt": "anhielt. Um aber das Feuer, welches man durch das",
+          "ocr": "anhielt. Um aber'das Feuer, welches man durch das"
         }
       },
       {
         "tl_14": {
-          "length": 49,
-          "distance": 0.0
+          "char-length": 49,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "Reiben dieſer Glas und Schwefelkugeln erhielt, zu",
+          "ocr": "Reiben dieſer Glas und Schwefelkugeln erhielt, zu"
         }
       },
       {
         "tl_15": {
-          "length": 45,
-          "distance": 0.0
+          "char-length": 45,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "ſammeln, machte man folgende Einrichtung. Man",
+          "ocr": "ſammeln, machte man folgende Einrichtung. Man"
         }
       },
       {
         "tl_16": {
-          "length": 52,
-          "distance": 0.07692307692307693
+          "char-length": 52,
+          "char-error-rate": 0.07692307692307693,
+          "word-error-rate": 0.375,
+          "gt": "bemerkte daß dieſes Feuer von einer geriebenen Glas-",
+          "ocr": "bemerkte daß diefes Fener von einer geriebenen Olas⸗"
         }
       },
       {
         "tl_17": {
-          "length": 50,
-          "distance": 0.0
+          "char-length": 50,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "kugel, gerne auf alle Arten von Metallen loß gehet",
+          "ocr": "kugel, gerne auf alle Arten von Metallen loß gehet"
         }
       },
       {
         "tl_18": {
-          "length": 46,
-          "distance": 0.0
+          "char-length": 46,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "und daran fort lauft. Daß aber das Glas, Pech,",
+          "ocr": "und daran fort lauft. Daß aber das Glas, Pech,"
         }
       },
       {
         "tl_19": {
-          "length": 47,
-          "distance": 0.0
+          "char-length": 47,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "Sigellac, alle Arten von Harzen, und die Seide,",
+          "ocr": "Sigellac, alle Arten von Harzen, und die Seide,"
         }
       },
       {
         "tl_20": {
-          "length": 58,
-          "distance": 0.08620689655172414
+          "char-length": 58,
+          "char-error-rate": 0.08620689655172414,
+          "word-error-rate": 0.0,
+          "gt": "dieſes Feuer nicht weiter laufen laſſen. ***) Daher ſtell-",
+          "ocr": "dieſes Feuer nicht weiter laufen laſſen.“) Daher ſtell⸗"
         }
       },
       {
         "tl_21": {
-          "length": 51,
-          "distance": 0.0
+          "char-length": 51,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "te man eine blecherne Roͤhre entweder auf einen Fuß",
+          "ocr": "te man eine blecherne Roͤhre entweder auf einen Fuß"
         }
       },
       {
         "tl_22": {
-          "length": 54,
-          "distance": 0.03773584905660377
+          "char-length": 54,
+          "char-error-rate": 0.03773584905660377,
+          "word-error-rate": 0.1,
+          "gt": "von Glas oder Pech; oder hieng ſie an ſeidenen Schnuͤ-",
+          "ocr": "von Glas oder Pech; oder hieng ſte an ſeidenen Schnuͤ⸗"
         }
       },
       {
         "tl_23": {
-          "length": 54,
-          "distance": 0.0
+          "char-length": 54,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "ren auf, und richtete ſie gegen eine Glaskugel, die in",
+          "ocr": "ren auf, und richtete ſie gegen eine Glaskugel, die in"
         }
       },
       {
         "tl_24": {
-          "length": 55,
-          "distance": 0.3333333333333333
+          "char-length": 55,
+          "char-error-rate": 0.3333333333333333,
+          "word-error-rate": 0.14285714285714285,
+          "gt": "der erſt bemelden Maſchiene, die man Electriſirmaſchie-",
+          "ocr": "der erſt bemelden Maſchiene, die man —XEX"
         }
       },
       {
         "tl_25": {
-          "length": 2,
-          "distance": 0.0
+          "char-length": 2,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "ne",
+          "ocr": "ne"
         }
       },
       {
         "tl_26": {
-          "length": 61,
-          "distance": 0.016666666666666666
+          "char-length": 61,
+          "char-error-rate": 0.016666666666666666,
+          "word-error-rate": 0.1111111111111111,
+          "gt": "*) Gilbert ein Engellaͤnder im 16. Jahrhundert, zeigte dieſes",
+          "ocr": "9) Gilbert ein Engellaͤnder im 16. Jahrhundert, zeigte dieſes"
         }
       },
       {
         "tl_27": {
-          "length": 37,
-          "distance": 0.02702702702702703
+          "char-length": 37,
+          "char-error-rate": 0.02702702702702703,
+          "word-error-rate": 0.14285714285714285,
+          "gt": "zu erſt in ſeinem Tractat vom Magnat.",
+          "ocr": "zu erſt in ſeinem Trackat vom Magnat."
         }
       },
       {
         "tl_28": {
-          "length": 54,
-          "distance": 0.037037037037037035
+          "char-length": 54,
+          "char-error-rate": 0.037037037037037035,
+          "word-error-rate": 0.1111111111111111,
+          "gt": "**) Otto von Guerike ein Burgermeiſter in Magdeburg im",
+          "ocr": "wu) Otto von Guerike ein Burgermeiſter in Magdeburg im"
         }
       },
       {
         "tl_29": {
-          "length": 51,
-          "distance": 0.0196078431372549
+          "char-length": 51,
+          "char-error-rate": 0.0196078431372549,
+          "word-error-rate": 0.14285714285714285,
+          "gt": "vorigen Jahrhundert, erfand die Kugeln von Schwefel",
+          "ocr": "yorigen Jahrhundert, erfand die Kugeln von Schwefel"
         }
       },
       {
         "tl_30": {
-          "length": 25,
-          "distance": 0.0
+          "char-length": 25,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "zu electriſchen Gebrauch.",
+          "ocr": "zu electriſchen Gebrauch."
         }
       },
       {
         "tl_31": {
-          "length": 57,
-          "distance": 0.07017543859649122
+          "char-length": 57,
+          "char-error-rate": 0.07017543859649122,
+          "word-error-rate": 0.1,
+          "gt": "***) Man nennet daher die Metalle, das Waſſer den thieri-",
+          "ocr": "Ad) Man nennet daher die Metalle, das Waſſer den thieri—"
         }
       },
       {
         "tl_32": {
-          "length": 56,
-          "distance": 0.05555555555555555
+          "char-length": 56,
+          "char-error-rate": 0.05555555555555555,
+          "word-error-rate": 0.2222222222222222,
+          "gt": "ſchen und menſchlichen Koͤrper u. d. g. leitende Koͤrper",
+          "ocr": "ſchen umd menſchlichen Koͤrper u. d. g leitende Roͤrper"
         }
       },
       {
         "tl_33": {
-          "length": 50,
-          "distance": 0.08
+          "char-length": 50,
+          "char-error-rate": 0.08,
+          "word-error-rate": 0.2857142857142857,
+          "gt": "des electrischen Feuers. Hingegen Glas, Pech, alle",
+          "ocr": "des electriſchen Feuers. Hingegen Glas, Pech, au⸗"
         }
       },
       {
         "tl_34": {
-          "length": 58,
-          "distance": 0.15789473684210525
+          "char-length": 58,
+          "char-error-rate": 0.15789473684210525,
+          "word-error-rate": 0.4444444444444444,
+          "gt": "Harzen, Schwefel,  Sigellac, Seide, gedoͤrrt Holz u. d. g.",
+          "ocr": "Harzen, Schwefel. Sigellac, Seide, geddrrt Hou u. beg"
         }
       },
       {
         "tl_35": {
-          "length": 47,
-          "distance": 0.06521739130434782
+          "char-length": 47,
+          "char-error-rate": 0.06521739130434782,
+          "word-error-rate": 0.5,
+          "gt": "nicht leitende Koͤrper des electriſchen Feuers.",
+          "ocr": "nicht leitende Roͤrper des rlectriſchen Feuero."
         }
       }
     ],
-    "length": 35,
-    "distance-mean": 0.06745727194778313,
-    "distance-varia": 0.029502309464560023
+    "num-lines": 35,
+    "num-words": 269,
+    "num-chars": 1642,
+    "char-error-rate-mean": 0.04506699147381242,
+    "char-error-rate-varia": 0.005074917465160598,
+    "word-error-rate-mean": 0.10780669144981414,
+    "word-error-rate-varia": 0.020926250942419865,
+    "char-error-worst-lines": [
+      "tl_24: avg=0.3333333333333333 len=57",
+      "tl_34: avg=0.15789473684210525 len=57",
+      "tl_11: avg=0.11538461538461539 len=52",
+      "tl_20: avg=0.08620689655172414 len=58",
+      "tl_33: avg=0.08 len=50",
+      "tl_31: avg=0.07017543859649122 len=57",
+      "tl_16: avg=0.07692307692307693 len=52",
+      "tl_35: avg=0.06521739130434782 len=46",
+      "tl_32: avg=0.05555555555555555 len=54",
+      "tl_28: avg=0.037037037037037035 len=54"
+    ]
   },
-  "OCR-D-GT-SEG-LINE,TESS-DEU": {
+  "TESS-DEU,OCR-D-GT-SEG-LINE": {
     "lines": [
       {
         "tl_1": {
-          "length": 1,
-          "distance": 1.0
+          "char-length": 1,
+          "char-error-rate": 1.0,
+          "word-error-rate": 1.0,
+          "gt": "4",
+          "ocr": "N"
         }
       },
       {
         "tl_2": {
-          "length": 55,
-          "distance": 0.10909090909090909
+          "char-length": 55,
+          "char-error-rate": 0.10909090909090909,
+          "word-error-rate": 0.375,
+          "gt": "gegen einen andern Koͤrper hinhielt, er leichte Koͤrper",
+          "ocr": "gegen einen andern Körper, hinhieft, ‚er leichte Nörper"
         }
       },
       {
         "tl_3": {
-          "length": 52,
-          "distance": 0.18867924528301888
+          "char-length": 52,
+          "char-error-rate": 0.18867924528301888,
+          "word-error-rate": 0.5555555555555556,
+          "gt": "an ſich zog, kniſterte und in der Dunkelheit, kleine",
+          "ocr": "au {ich 309, Ffnifterte und in der Dunkelheit, Feine"
         }
       },
       {
         "tl_4": {
-          "length": 50,
-          "distance": 0.18
+          "char-length": 50,
+          "char-error-rate": 0.18,
+          "word-error-rate": 0.75,
+          "gt": "Fuͤnkchen ſehen ließ. Weil der Bernſtein, electrum",
+          "ocr": "Fünfchen (eben Kieß, Weil der Bernuftein, ele&trum"
         }
       },
       {
         "tl_5": {
-          "length": 54,
-          "distance": 0.09259259259259259
+          "char-length": 54,
+          "char-error-rate": 0.09259259259259259,
+          "word-error-rate": 0.625,
+          "gt": "heiſt, ſo nannte man dieſes Feuer, electriſches Feuer.",
+          "ocr": "heift, fo nannte man diefes Feuer, electrifches Feudr."
         }
       },
       {
         "tl_6": {
-          "length": 49,
-          "distance": 0.08
+          "char-length": 49,
+          "char-error-rate": 0.08,
+          "word-error-rate": 0.25,
+          "gt": "Man bemerkte hernach auch, daß Glas, Pech, Schwe-",
+          "ocr": "Man beinerfte hernach auch, daß Glas, Pech, Schwes"
         }
       },
       {
         "tl_7": {
-          "length": 50,
-          "distance": 0.1
+          "char-length": 50,
+          "char-error-rate": 0.1,
+          "word-error-rate": 0.3333333333333333,
+          "gt": "fel, Siegellac *) u. d. g. das nehmliche Feuer von",
+          "ocr": "fel, Siegellac*) a, D. g. das nehmliche Teuer von"
         }
       },
       {
         "tl_8": {
-          "length": 52,
-          "distance": 0.057692307692307696
+          "char-length": 52,
+          "char-error-rate": 0.057692307692307696,
+          "word-error-rate": 0.3,
+          "gt": "ſich geben, wenn man ſie entweder mit der Hand, oder",
+          "ocr": "fich geben, wenn man fie entweder mic der Hand, oder"
         }
       },
       {
         "tl_9": {
-          "length": 33,
-          "distance": 0.20588235294117646
+          "char-length": 33,
+          "char-error-rate": 0.20588235294117646,
+          "word-error-rate": 0.6,
+          "gt": "mit einem ledernen Kuͤſſen reibt.",
+          "ocr": "mic einem ledernen Rüffen treibt."
         }
       },
       {
         "tl_10": {
-          "length": 45,
-          "distance": 0.14583333333333334
+          "char-length": 45,
+          "char-error-rate": 0.14583333333333334,
+          "word-error-rate": 0.5,
+          "gt": "Daher machte man Maſchienen in welche man Ku-",
+          "ocr": "‚Daher machte man Mafchienen In welche matj Kurs"
         }
       },
       {
         "tl_11": {
-          "length": 52,
-          "distance": 0.07547169811320754
+          "char-length": 52,
+          "char-error-rate": 0.07547169811320754,
+          "word-error-rate": 0.25,
+          "gt": "geln von Glas, oder Schwefel **) einſezte, und durch",
+          "ocr": "gelh von Glas, oder Schwefel **) einferte , und durch"
         }
       },
       {
         "tl_12": {
-          "length": 50,
-          "distance": 0.08
+          "char-length": 50,
+          "char-error-rate": 0.08,
+          "word-error-rate": 0.1,
+          "gt": "ein Rad herum trieb; an die Kugel aber ein Kuͤſſen",
+          "ocr": "ein Rad herum trieb; an die Kugel aber ein Küflen"
         }
       },
       {
         "tl_13": {
-          "length": 49,
-          "distance": 0.04081632653061224
+          "char-length": 49,
+          "char-error-rate": 0.04081632653061224,
+          "word-error-rate": 0.1111111111111111,
+          "gt": "anhielt. Um aber das Feuer, welches man durch das",
+          "ocr": "anbiele. Um aber das Feuer, welches man durch das"
         }
       },
       {
         "tl_14": {
-          "length": 49,
-          "distance": 0.08
+          "char-length": 49,
+          "char-error-rate": 0.08,
+          "word-error-rate": 0.42857142857142855,
+          "gt": "Reiben dieſer Glas und Schwefelkugeln erhielt, zu",
+          "ocr": "Reiben diefer Slas und Schwefelkugeln erbielt , zu"
         }
       },
       {
         "tl_15": {
-          "length": 45,
-          "distance": 0.022222222222222223
+          "char-length": 45,
+          "char-error-rate": 0.022222222222222223,
+          "word-error-rate": 0.16666666666666666,
+          "gt": "ſammeln, machte man folgende Einrichtung. Man",
+          "ocr": "fammeln, machte man folgende Einrichtung. Man"
         }
       },
       {
         "tl_16": {
-          "length": 52,
-          "distance": 0.1320754716981132
+          "char-length": 52,
+          "char-error-rate": 0.1320754716981132,
+          "word-error-rate": 0.375,
+          "gt": "bemerkte daß dieſes Feuer von einer geriebenen Glas-",
+          "ocr": "bemetfte daß Diefes Feuer von einer geriebenen Oflass"
         }
       },
       {
         "tl_17": {
-          "length": 50,
-          "distance": 0.058823529411764705
+          "char-length": 50,
+          "char-error-rate": 0.058823529411764705,
+          "word-error-rate": 0.2222222222222222,
+          "gt": "kugel, gerne auf alle Arten von Metallen loß gehet",
+          "ocr": "Fugel, gerne auf alle Yrten von‘ Metallen loß gehet"
         }
       },
       {
         "tl_18": {
-          "length": 46,
-          "distance": 0.043478260869565216
+          "char-length": 46,
+          "char-error-rate": 0.043478260869565216,
+          "word-error-rate": 0.1111111111111111,
+          "gt": "und daran fort lauft. Daß aber das Glas, Pech,",
+          "ocr": "und daran fort lauft, Daß aber das Glas, Perh,"
         }
       },
       {
         "tl_19": {
-          "length": 47,
-          "distance": 0.0
+          "char-length": 47,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "Sigellac, alle Arten von Harzen, und die Seide,",
+          "ocr": "Sigellac, alle Arten von Harzen, und die Seide,"
         }
       },
       {
         "tl_20": {
-          "length": 58,
-          "distance": 0.1206896551724138
+          "char-length": 58,
+          "char-error-rate": 0.1206896551724138,
+          "word-error-rate": 0.375,
+          "gt": "dieſes Feuer nicht weiter laufen laſſen. ***) Daher ſtell-",
+          "ocr": "biefes Feuer nicht weiter laufen laffen.***) Daher {tells"
         }
       },
       {
         "tl_21": {
-          "length": 51,
-          "distance": 0.02
+          "char-length": 51,
+          "char-error-rate": 0.02,
+          "word-error-rate": 0.1111111111111111,
+          "gt": "te man eine blecherne Roͤhre entweder auf einen Fuß",
+          "ocr": "te man eine blecherne Röhre entweder auf einen Fuß"
         }
       },
       {
         "tl_22": {
-          "length": 54,
-          "distance": 0.14285714285714285
+          "char-length": 54,
+          "char-error-rate": 0.14285714285714285,
+          "word-error-rate": 0.4,
+          "gt": "von Glas oder Pech; oder hieng ſie an ſeidenen Schnuͤ-",
+          "ocr": "von Glas oder Pech; oder hHieng. fe an (eidenen Schnüre"
         }
       },
       {
         "tl_23": {
-          "length": 54,
-          "distance": 0.09259259259259259
+          "char-length": 54,
+          "char-error-rate": 0.09259259259259259,
+          "word-error-rate": 0.5,
+          "gt": "ren auf, und richtete ſie gegen eine Glaskugel, die in",
+          "ocr": "ten auf, und richtere fie gegen eine Ölaskugel, die {n"
         }
       },
       {
         "tl_24": {
-          "length": 55,
-          "distance": 0.16071428571428573
+          "char-length": 55,
+          "char-error-rate": 0.16071428571428573,
+          "word-error-rate": 0.5714285714285714,
+          "gt": "der erſt bemelden Maſchiene, die man Electriſirmaſchie-",
+          "ocr": "der erft bemelden Mafchiene, Die man EFfectrifirmafchte"
         }
       },
       {
         "tl_25": {
-          "length": 2,
-          "distance": 0.0
+          "char-length": 2,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "ne",
+          "ocr": "ne"
         }
       },
       {
         "tl_26": {
-          "length": 61,
-          "distance": 0.11290322580645161
+          "char-length": 61,
+          "char-error-rate": 0.11290322580645161,
+          "word-error-rate": 0.5,
+          "gt": "*) Gilbert ein Engellaͤnder im 16. Jahrhundert, zeigte dieſes",
+          "ocr": "*) Bilbert ein EngeNländer im 16. Yahrhundert , zeigte dießes"
         }
       },
       {
         "tl_27": {
-          "length": 37,
-          "distance": 0.15789473684210525
+          "char-length": 37,
+          "char-error-rate": 0.15789473684210525,
+          "word-error-rate": 0.5714285714285714,
+          "gt": "zu erſt in ſeinem Tractat vom Magnat.",
+          "ocr": "gu erft In feinen: Tractat vom Magnat."
         }
       },
       {
         "tl_28": {
-          "length": 54,
-          "distance": 0.1111111111111111
+          "char-length": 54,
+          "char-error-rate": 0.1111111111111111,
+          "word-error-rate": 0.4444444444444444,
+          "gt": "**) Otto von Guerike ein Burgermeiſter in Magdeburg im",
+          "ocr": "a) Dtto von Guerife ein Burgetmeifter in Magdeburg im"
         }
       },
       {
         "tl_29": {
-          "length": 51,
-          "distance": 0.0196078431372549
+          "char-length": 51,
+          "char-error-rate": 0.0196078431372549,
+          "word-error-rate": 0.14285714285714285,
+          "gt": "vorigen Jahrhundert, erfand die Kugeln von Schwefel",
+          "ocr": "vorigen Jahrhundert, erfand bie Kugeln von Schwefel"
         }
       },
       {
         "tl_30": {
-          "length": 25,
-          "distance": 0.16
+          "char-length": 25,
+          "char-error-rate": 0.16,
+          "word-error-rate": 0.6666666666666666,
+          "gt": "zu electriſchen Gebrauch.",
+          "ocr": "zu elettrifchen Sebrauch,"
         }
       },
       {
         "tl_31": {
-          "length": 57,
-          "distance": 0.14035087719298245
+          "char-length": 57,
+          "char-error-rate": 0.14035087719298245,
+          "word-error-rate": 0.4,
+          "gt": "***) Man nennet daher die Metalle, das Waſſer den thieri-",
+          "ocr": "*A) kan nennet daher die Metalle, das Waffer den thtert"
         }
       },
       {
         "tl_32": {
-          "length": 56,
-          "distance": 0.16363636363636364
+          "char-length": 56,
+          "char-error-rate": 0.16363636363636364,
+          "word-error-rate": 0.4444444444444444,
+          "gt": "ſchen und menſchlichen Koͤrper u. d. g. leitende Koͤrper",
+          "ocr": "jeben und menfchlicghen Körper u. d. g leitende Rörper"
         }
       },
       {
         "tl_33": {
-          "length": 50,
-          "distance": 0.12
+          "char-length": 50,
+          "char-error-rate": 0.12,
+          "word-error-rate": 0.42857142857142855,
+          "gt": "des electrischen Feuers. Hingegen Glas, Pech, alle",
+          "ocr": "bes electrifeben Feuers, Hingegen Glas, Pesh, alle"
         }
       },
       {
         "tl_34": {
-          "length": 58,
-          "distance": 0.2542372881355932
+          "char-length": 58,
+          "char-error-rate": 0.2542372881355932,
+          "word-error-rate": 0.8888888888888888,
+          "gt": "Harzen, Schwefel,  Sigellac, Seide, gedoͤrrt Holz u. d. g.",
+          "ocr": "arjen, Shrvrfel, SigeNac, Ceide, geosrrt Molz u. d.g."
         }
       },
       {
         "tl_35": {
-          "length": 47,
-          "distance": 0.17391304347826086
+          "char-length": 47,
+          "char-error-rate": 0.17391304347826086,
+          "word-error-rate": 0.5,
+          "gt": "nicht leitende Koͤrper des electriſchen Feuers.",
+          "ocr": "nicht leitende Börper des Yecteifchen Seuerg."
         }
       }
     ],
-    "length": 35,
-    "distance-mean": 0.13266189758443944,
-    "distance-varia": 0.02573938908038807
+    "num-lines": 35,
+    "num-words": 268,
+    "num-chars": 1664,
+    "char-error-rate-mean": 0.11057692307692307,
+    "char-error-rate-varia": 0.003887241926604057,
+    "word-error-rate-mean": 0.3843283582089552,
+    "word-error-rate-varia": 0.04261983437467955,
+    "char-error-worst-lines": [
+      "tl_34: avg=0.2542372881355932 len=59",
+      "tl_3: avg=0.18867924528301888 len=53",
+      "tl_32: avg=0.16363636363636364 len=55",
+      "tl_24: avg=0.16071428571428573 len=56",
+      "tl_4: avg=0.18 len=50",
+      "tl_35: avg=0.17391304347826086 len=46",
+      "tl_31: avg=0.14035087719298245 len=57",
+      "tl_22: avg=0.14285714285714285 len=56",
+      "tl_26: avg=0.11290322580645161 len=62",
+      "tl_20: avg=0.1206896551724138 len=58"
+    ]
   },
-  "OCR-D-GT-SEG-LINE,CALA-GT4HIST": {
+  "CALA-GT4HIST,OCR-D-GT-SEG-LINE": {
     "lines": [
       {
         "tl_1": {
-          "length": 1,
-          "distance": 0.0
+          "char-length": 1,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "4",
+          "ocr": "4"
         }
       },
       {
         "tl_2": {
-          "length": 55,
-          "distance": 0.0
+          "char-length": 55,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "gegen einen andern Koͤrper hinhielt, er leichte Koͤrper",
+          "ocr": "gegen einen andern Koͤrper hinhielt, er leichte Koͤrper"
         }
       },
       {
         "tl_3": {
-          "length": 52,
-          "distance": 0.019230769230769232
+          "char-length": 52,
+          "char-error-rate": 0.019230769230769232,
+          "word-error-rate": 0.0,
+          "gt": "an ſich zog, kniſterte und in der Dunkelheit, kleine",
+          "ocr": "an ſich zog/ kniſterte und in der Dunkelheit, kleine"
         }
       },
       {
         "tl_4": {
-          "length": 50,
-          "distance": 0.02040816326530612
+          "char-length": 50,
+          "char-error-rate": 0.02040816326530612,
+          "word-error-rate": 0.14285714285714285,
+          "gt": "Fuͤnkchen ſehen ließ. Weil der Bernſtein, electrum",
+          "ocr": "Funkchen ſehen ließ. Weil der Bernſtein, electrum"
         }
       },
       {
         "tl_5": {
-          "length": 54,
-          "distance": 0.018518518518518517
+          "char-length": 54,
+          "char-error-rate": 0.018518518518518517,
+          "word-error-rate": 0.125,
+          "gt": "heiſt, ſo nannte man dieſes Feuer, electriſches Feuer.",
+          "ocr": "heiſt, ſo nannte man dieſes Feuer, eleetriſches Feuer."
         }
       },
       {
         "tl_6": {
-          "length": 49,
-          "distance": 0.02040816326530612
+          "char-length": 49,
+          "char-error-rate": 0.02040816326530612,
+          "word-error-rate": 0.0,
+          "gt": "Man bemerkte hernach auch, daß Glas, Pech, Schwe-",
+          "ocr": "Man bemerkte hernach auch, daß Glas, Pech, Schwe⸗"
         }
       },
       {
         "tl_7": {
-          "length": 50,
-          "distance": 0.04
+          "char-length": 50,
+          "char-error-rate": 0.04,
+          "word-error-rate": 0.0,
+          "gt": "fel, Siegellac *) u. d. g. das nehmliche Feuer von",
+          "ocr": "fel, Siegellac) u. d. g. das nehmliche Feuer von"
         }
       },
       {
         "tl_8": {
-          "length": 52,
-          "distance": 0.019230769230769232
+          "char-length": 52,
+          "char-error-rate": 0.019230769230769232,
+          "word-error-rate": 0.1,
+          "gt": "ſich geben, wenn man ſie entweder mit der Hand, oder",
+          "ocr": "ſich geben, wenn man ſie entweder mjt der Hand, oder"
         }
       },
       {
         "tl_9": {
-          "length": 33,
-          "distance": 0.0
+          "char-length": 33,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "mit einem ledernen Kuͤſſen reibt.",
+          "ocr": "mit einem ledernen Kuͤſſen reibt."
         }
       },
       {
         "tl_10": {
-          "length": 45,
-          "distance": 0.08888888888888889
+          "char-length": 45,
+          "char-error-rate": 0.08888888888888889,
+          "word-error-rate": 0.25,
+          "gt": "Daher machte man Maſchienen in welche man Ku-",
+          "ocr": "Daher machte man Maſchienen in welche ma il"
         }
       },
       {
         "tl_11": {
-          "length": 52,
-          "distance": 0.038461538461538464
+          "char-length": 52,
+          "char-error-rate": 0.038461538461538464,
+          "word-error-rate": 0.0,
+          "gt": "geln von Glas, oder Schwefel **) einſezte, und durch",
+          "ocr": "geln von Glas, oder Schwefel ) einſezte, und durch"
         }
       },
       {
         "tl_12": {
-          "length": 50,
-          "distance": 0.0
+          "char-length": 50,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "ein Rad herum trieb; an die Kugel aber ein Kuͤſſen",
+          "ocr": "ein Rad herum trieb; an die Kugel aber ein Kuͤſſen"
         }
       },
       {
         "tl_13": {
-          "length": 49,
-          "distance": 0.0
+          "char-length": 49,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "anhielt. Um aber das Feuer, welches man durch das",
+          "ocr": "anhielt. Um aber das Feuer, welches man durch das"
         }
       },
       {
         "tl_14": {
-          "length": 49,
-          "distance": 0.0
+          "char-length": 49,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "Reiben dieſer Glas und Schwefelkugeln erhielt, zu",
+          "ocr": "Reiben dieſer Glas und Schwefelkugeln erhielt, zu"
         }
       },
       {
         "tl_15": {
-          "length": 45,
-          "distance": 0.0
+          "char-length": 45,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "ſammeln, machte man folgende Einrichtung. Man",
+          "ocr": "ſammeln, machte man folgende Einrichtung. Man"
         }
       },
       {
         "tl_16": {
-          "length": 52,
-          "distance": 0.057692307692307696
+          "char-length": 52,
+          "char-error-rate": 0.057692307692307696,
+          "word-error-rate": 0.25,
+          "gt": "bemerkte daß dieſes Feuer von einer geriebenen Glas-",
+          "ocr": "bemerkte daß diefes Fener von einer geriebenen Glas."
         }
       },
       {
         "tl_17": {
-          "length": 50,
-          "distance": 0.0
+          "char-length": 50,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "kugel, gerne auf alle Arten von Metallen loß gehet",
+          "ocr": "kugel, gerne auf alle Arten von Metallen loß gehet"
         }
       },
       {
         "tl_18": {
-          "length": 46,
-          "distance": 0.0
+          "char-length": 46,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "und daran fort lauft. Daß aber das Glas, Pech,",
+          "ocr": "und daran fort lauft. Daß aber das Glas, Pech,"
         }
       },
       {
         "tl_19": {
-          "length": 47,
-          "distance": 0.02127659574468085
+          "char-length": 47,
+          "char-error-rate": 0.02127659574468085,
+          "word-error-rate": 0.125,
+          "gt": "Sigellac, alle Arten von Harzen, und die Seide,",
+          "ocr": "Sigellae, alle Arten von Harzen, und die Seide,"
         }
       },
       {
         "tl_20": {
-          "length": 58,
-          "distance": 0.06896551724137931
+          "char-length": 58,
+          "char-error-rate": 0.06896551724137931,
+          "word-error-rate": 0.0,
+          "gt": "dieſes Feuer nicht weiter laufen laſſen. ***) Daher ſtell-",
+          "ocr": "dieſes Feuer nicht weiter laufen laſſen. ) Daher ſtell⸗"
         }
       },
       {
         "tl_21": {
-          "length": 51,
-          "distance": 0.0
+          "char-length": 51,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "te man eine blecherne Roͤhre entweder auf einen Fuß",
+          "ocr": "te man eine blecherne Roͤhre entweder auf einen Fuß"
         }
       },
       {
         "tl_22": {
-          "length": 54,
-          "distance": 0.07407407407407407
+          "char-length": 54,
+          "char-error-rate": 0.07407407407407407,
+          "word-error-rate": 0.2,
+          "gt": "von Glas oder Pech; oder hieng ſie an ſeidenen Schnuͤ-",
+          "ocr": "von Glas oder Pech; oder hieng ſſe an ſeidenen Schnu."
         }
       },
       {
         "tl_23": {
-          "length": 54,
-          "distance": 0.0
+          "char-length": 54,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "ren auf, und richtete ſie gegen eine Glaskugel, die in",
+          "ocr": "ren auf, und richtete ſie gegen eine Glaskugel, die in"
         }
       },
       {
         "tl_24": {
-          "length": 55,
-          "distance": 0.01818181818181818
+          "char-length": 55,
+          "char-error-rate": 0.01818181818181818,
+          "word-error-rate": 0.0,
+          "gt": "der erſt bemelden Maſchiene, die man Electriſirmaſchie-",
+          "ocr": "der erſt bemelden Maſchiene, die man Electriſirmaſchie⸗"
         }
       },
       {
         "tl_25": {
-          "length": 2,
-          "distance": 0.0
+          "char-length": 2,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "ne",
+          "ocr": "ne"
         }
       },
       {
         "tl_26": {
-          "length": 61,
-          "distance": 0.016666666666666666
+          "char-length": 61,
+          "char-error-rate": 0.016666666666666666,
+          "word-error-rate": 0.0,
+          "gt": "*) Gilbert ein Engellaͤnder im 16. Jahrhundert, zeigte dieſes",
+          "ocr": ") Gilbert ein Engellaͤnder im 16. Jahrhundert, zeigte dieſes"
         }
       },
       {
         "tl_27": {
-          "length": 37,
-          "distance": 0.0
+          "char-length": 37,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "zu erſt in ſeinem Tractat vom Magnat.",
+          "ocr": "zu erſt in ſeinem Tractat vom Magnat."
         }
       },
       {
         "tl_28": {
-          "length": 54,
-          "distance": 0.037037037037037035
+          "char-length": 54,
+          "char-error-rate": 0.037037037037037035,
+          "word-error-rate": 0.0,
+          "gt": "**) Otto von Guerike ein Burgermeiſter in Magdeburg im",
+          "ocr": ") Otto von Guerike ein Burgermeiſter in Magdeburg im"
         }
       },
       {
         "tl_29": {
-          "length": 51,
-          "distance": 0.0
+          "char-length": 51,
+          "char-error-rate": 0.0,
+          "word-error-rate": 0.0,
+          "gt": "vorigen Jahrhundert, erfand die Kugeln von Schwefel",
+          "ocr": "vorigen Jahrhundert, erfand die Kugeln von Schwefel"
         }
       },
       {
         "tl_30": {
-          "length": 25,
-          "distance": 0.04
+          "char-length": 25,
+          "char-error-rate": 0.04,
+          "word-error-rate": 0.3333333333333333,
+          "gt": "zu electriſchen Gebrauch.",
+          "ocr": "zu elettriſchen Gebrauch."
         }
       },
       {
         "tl_31": {
-          "length": 57,
-          "distance": 0.07017543859649122
+          "char-length": 57,
+          "char-error-rate": 0.07017543859649122,
+          "word-error-rate": 0.0,
+          "gt": "***) Man nennet daher die Metalle, das Waſſer den thieri-",
+          "ocr": ") Man nennet daher die Metalle, das Waſſer den thieri."
         }
       },
       {
         "tl_32": {
-          "length": 56,
-          "distance": 0.625
+          "char-length": 56,
+          "char-error-rate": 0.625,
+          "word-error-rate": 0.6666666666666666,
+          "gt": "ſchen und menſchlichen Koͤrper u. d. g. leitende Koͤrper",
+          "ocr": "den oroer u. d. g lened oip."
         }
       },
       {
         "tl_33": {
-          "length": 50,
-          "distance": 0.6538461538461539
+          "char-length": 50,
+          "char-error-rate": 0.6538461538461539,
+          "word-error-rate": 1.0,
+          "gt": "des electrischen Feuers. Hingegen Glas, Pech, alle",
+          "ocr": "s se e engs. Htaegen ola ,"
         }
       },
       {
         "tl_34": {
-          "length": 58,
-          "distance": 0.8333333333333334
+          "char-length": 58,
+          "char-error-rate": 0.8333333333333334,
+          "word-error-rate": 1.0,
+          "gt": "Harzen, Schwefel,  Sigellac, Seide, gedoͤrrt Holz u. d. g.",
+          "ocr": "eu eeei un aisi i i"
         }
       },
       {
         "tl_35": {
-          "length": 47,
-          "distance": 0.10638297872340426
+          "char-length": 47,
+          "char-error-rate": 0.10638297872340426,
+          "word-error-rate": 0.5,
+          "gt": "nicht leitende Koͤrper des electriſchen Feuers.",
+          "ocr": "nicht leitende BKoͤrper des elctriſchen Fuerr"
         }
       }
     ],
-    "length": 35,
-    "distance-mean": 0.08250796377138409,
-    "distance-varia": 0.03774462632188353
+    "num-lines": 35,
+    "num-words": 265,
+    "num-chars": 1648,
+    "char-error-rate-mean": 0.09587378640776699,
+    "char-error-rate-varia": 0.04427348528641201,
+    "word-error-rate-mean": 0.13584905660377358,
+    "word-error-rate-varia": 0.0710778280696401,
+    "char-error-worst-lines": [
+      "tl_34: avg=0.8333333333333334 len=60",
+      "tl_32: avg=0.625 len=56",
+      "tl_33: avg=0.6538461538461539 len=52",
+      "tl_35: avg=0.10638297872340426 len=47",
+      "tl_31: avg=0.07017543859649122 len=57",
+      "tl_22: avg=0.07407407407407407 len=54",
+      "tl_20: avg=0.06896551724137931 len=58",
+      "tl_10: avg=0.08888888888888889 len=45",
+      "tl_16: avg=0.057692307692307696 len=52",
+      "tl_28: avg=0.037037037037037035 len=54"
+    ]
   }
 }
