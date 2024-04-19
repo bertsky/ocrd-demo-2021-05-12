@@ -22,10 +22,10 @@
     # or:
     docker pull ocrd/all:maximum-cuda
     mkdir -p models data
-    docker run --rm -it -V $PWD/data:/data -V $PWD/models:/usr/local/share/ocrd-resources \
-        ocrd/all bash
+    docker run --rm -it -v $PWD/data:/data -v ocrd-models:/models \
+        ocrd/all:maximum bash
 
-(Or, to share models between native and Docker, mount `$HOME/.local/share/ocrd-resources`.)
+(Or, to share models between native and Docker, mount `$HOME/.local/share/ocrd-resources` instead of the named volume `ocrd-models`.)
 
 ### Download models
 
@@ -235,8 +235,8 @@ The result are HTML files (Diff View) and JSON files (with CER and WER).
 
 ### Try to build
 
-    make -f demo1.mk demo1
-    make -f demo2.mk demo2
+    ocrd-make -f demo1.mk demo1
+    ocrd-make -f demo2.mk demo2
 
 > make[1]: Entering directory 'demo1'
 > make[1]: 'OCR-D-OCR-TESS' is up to date.
@@ -248,6 +248,6 @@ The result are HTML files (Diff View) and JSON files (with CER and WER).
 ### Trigger rebuild
 
     touch demo1/OCR-D-IMG demo2/DEFAULT
-    make -f demo1.mk demo1
-    make -f demo2.mk demo2
+    ocrd-make -f demo1.mk demo1
+    ocrd-make -f demo2.mk demo2
 
